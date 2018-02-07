@@ -14,14 +14,13 @@ from nltk.tokenize import WordPunctTokenizer
 from nltk.stem.wordnet import WordNetLemmatizer
 from functools import reduce
 
-inverted_file = []							# The Inverted File data structure
-docnames = []								# The Document names list
-indeces = []								# The indeces of the query lemmas in the inverted file
-wp_tokenizer = WordPunctTokenizer()			# Tokenizer instance
-wnl_lemmatizer = WordNetLemmatizer()		# Wordnet Lemmatizer instance
-stop_words = stopwords.words('english')		# English stop words list
+inverted_file = []  # The Inverted File data structure
+docnames = []  # The Document names list
+indeces = []  # The indeces of the query lemmas in the inverted file
+wp_tokenizer = WordPunctTokenizer()  # Tokenizer instance
+wnl_lemmatizer = WordNetLemmatizer()  # Wordnet Lemmatizer instance
+stop_words = stopwords.words('english')  # English stop words list
 my_dir = os.path.dirname(__file__)
-print (os.path.isfile(os.path.join(my_dir, 'inverted_file.txt') ))
 
 app = Flask(__name__)
 app.config["DEBUG"] = True
@@ -46,9 +45,9 @@ def main():
 
 def retrieve_files():
 	""" Retrieve the Inverted Index."""
-	global inverted_file		# The Inverted File data structure
-	global docnames				# The Document names data structure
-	my_dir = os.path.dirname(__file__)
+	global inverted_file  # The Inverted File data structure
+	global docnames  # The Document names data structure
+	my_dir = os.path.dirname(__file__) + os.sep + 'InvertedFile'
 	with open(os.path.join(my_dir, 'inverted_file.txt'), 'r') as fh:
 		# Inverted File Form for the words find,finished,finland and go:
 		# [
@@ -64,7 +63,7 @@ def retrieve_files():
 
 
 def binarySearch(item):
-
+    """  Binary Search """
     first = 0
     last = len(inverted_file)-1
     found = False
@@ -72,7 +71,6 @@ def binarySearch(item):
         midpoint = (first + last)//2
         current = inverted_file[midpoint][:]
         current_whole = current[:]
-
         if current[2]!=0:
         	current_whole[0] = inverted_file[midpoint-current[2]][0][0:current[1]]+current[0]
         if current_whole[0] == item:
@@ -87,6 +85,7 @@ def binarySearch(item):
     	return ind
     else:
     	return -1
+
 
 def ranking_tfidf(func):
 	""" Ranking the queries regarding tf*idf."""
@@ -114,20 +113,19 @@ def ranking_tfidf(func):
 	return print_top_10
 
 
-
 @ranking_tfidf
 def standard_query(query_lemmas):
     """ Standard query application:
-    After sanitizing/wrangling the input query we retrieve the inverted list of the remaining terms/lemmas and which we aggregate and union them.
+        After sanitizing/wrangling the input query we retrieve the inverted list of the remaining terms/lemmas and which we aggregate and union them.
     """
     global inverted_file, docnames, indeces
 
     documents = [docnames[int(docid)-1] for index in indeces for docid in inverted_file[index][3]]
     standard_query_docs = list(set(documents))
-
     print("Word Quering:\n")
     print ("No relevant document!" if (len(standard_query_docs) < 1) else "The word(s) found in ", len(standard_query_docs), " documents in total:", ",".join(standard_query_docs))
     print()
+
     return standard_query_docs
 
 
@@ -189,20 +187,6 @@ def phrase_query(query_lemmas):
     return phrase_query_docs
 
 
-
-# ---------------------------------------------- #
-# Examples of queries for experimenting :
-# ---------------------------------------
-# full of joy
-# full of joy and wisdom
-# copyright laws
-# Start Of Project Gutenberg
-# Project Gutenberg
-# Project Gutenberg Literacy Archive Foundation
-# Please do not remove this
-# Himalayans journals
-# ---------------------------------------------- #
-
 @app.route('/search_engine', methods=['POST'])
 def search_engine():
     global inverted_file, docnames, indeces
@@ -219,7 +203,7 @@ def search_engine():
     for word, pos in pos_tag(wp_tokenizer.tokenize("query")):
     	pass
     temp = wnl_lemmatizer.lemmatize(word, 'n')
-
+    # --------------------------------------------------------------------------------------------- #
     tick = time.time()
     # List of valid lemmas included in current query
     # query        : Project Gutenberg Literacy Archive Foundation
@@ -231,8 +215,8 @@ def search_engine():
     	# It is proper to sanitize the query like we sanitized the documents documents when we built the index by stemming all the words,
     	# making everything lowercase, removing punctuation and apply the analysis applied while building the index.
     	if(
-    		re.search(r'[\W_]+', word) or 	# If includes a non-letter character
-    		word in stop_words or			# If this is a stop word
+    		re.search(r'[\W_]+', word) or  # If includes a non-letter character
+    		word in stop_words or  # If this is a stop word
     		# http://stackoverflow.com/questions/15388831/what-are-all-possible-pos-tags-of-nltk
     		#   CC: conjuction, coordinating
     		#   LS: List item marker
@@ -248,11 +232,11 @@ def search_engine():
     	):
     		continue
 
-    	pos = 'v' if (pos.startswith('VB')) else 'n'	# If current term's appearance is verb related then the POS lemmatizer should be verb ('v'), otherwise ('n')
+    	pos = 'v' if (pos.startswith('VB')) else 'n'  # If current term's appearance is verb related then the POS lemmatizer should be verb ('v'), otherwise ('n')
     	index = binarySearch(word)
     	if (index != -1):
     		indeces.append(index)
-    		query_lemma_word = wnl_lemmatizer.lemmatize(word, pos) 		# Stemming/Lemmatization
+    		query_lemma_word = wnl_lemmatizer.lemmatize(word, pos)  # Stemming/Lemmatization
     		query_lemmas.append(query_lemma_word)
 
     if (len(query_lemmas) < 1):
