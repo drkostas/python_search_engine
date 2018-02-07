@@ -1,0 +1,1746 @@
+Project Gutenberg Etext Female Suffrage, by Susan Fenimore Cooper
+#3 in our series by Susan Fenimore Cooper
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Female Suffrage
+
+by Susan Fenimore Cooper
+
+April, 2000  [Etext #2157]
+
+
+Project Gutenberg Etext Female Suffrage, by Susan Fenimore Cooper
+******This file should be named sffrg10.txt or sffrg10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, sffrg11.txt
+VERSIONS based on separate sources get new LETTER, sffrg10a.txt
+
+
+Transcribed by Hugh C. MacDougall
+jfcooper@wpe.com
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+{This e-text has been prepared from the original two-part magazine
+article, "Female Suffrage: A Letter to the Christian Women of
+America," by Susan Fenimore Cooper, which appeared in Harper's
+New Weekly Magazine, Vol. XLI (June--November, 1870), pp. 438-
+446, 594-600. The author is identified only in the Table of Contents,
+p. v, where she is listed as "Susan F. Cooper."
+
+Transcribed by Hugh C. MacDougall
+jfcooper@wpe.com
+
+{Because "vanilla text" does not permit of accents or italics, accents
+have been ignored, and both all-capital and italicized words
+transcribed as ALL CAPITALS. Paragraphs are separated by a blank
+line, but not indented. Footnotes by Susan Fenimore Cooper are
+inserted as paragraphs (duly identified) as indicated by her asterisks.
+All insertions by the transcriber are enclosed in {brackets}. For
+readers wishing to know the exact location of specific passages, the
+page breaks from Harper's are identified by a blank line at the end of
+each page, followed by the original page number at the beginning of
+the next.
+
+{A Brief Introduction to Susan Fenimore Cooper's article:
+
+{The question of "female suffrage" has long been resolved in the
+United States, and--though sometimes more recently--in other
+democratic societies as well. For most people, certainly in the so-
+called Western world, the right of women to vote on a basis of
+equality with men seems obvious. A century ago this was not the
+case, even in America, and it required a long, arduous, and
+sometimes painful struggle before the Nineteenth Amendment to the
+United States Constitution was ratified on August 18, 1920.
+
+{Why then, take steps to make available through the Gutenberg
+Project an article arguing AGAINST the right of women to vote--an
+article written by a woman?
+
+{There are two reasons for doing so. The first is that Susan Fenimore
+Cooper (1813-1894) was no ordinary woman. She was educated in
+Europe and extremely well read; she was the daughter and literary
+assistant of James Fenimore Cooper, America's first internationally
+recognized novelist; and she was a naturalist and essayist of great
+talent whose "nature diary" of her home village at Cooperstown,
+published as "Rural Hours" in 1850, has become a classic of early
+American environmental literature.
+
+{Yet Susan Fenimore Cooper argued eloquently, bringing to her task
+not only her deep religious feelings but also her very considerable
+knowledge of world history and of American society, that women
+should not be given the vote! Hers was not a simple defense of male
+dominion; her case is combined with equally eloquent arguments in
+favor of higher education for women, and for equal wages for equal
+work. "Female Suffrage," is thus of considerable biographic
+importance, throwing important light on her views of God, of society,
+and of American culture.
+
+{At the same time, "Female Suffrage" demonstrates that no social
+argument--however popular or politically correct today--can be
+considered as self-evident. Those who favor full legal and social
+equality of the sexes at the ballot box and elsewhere (as I believe I
+do), should be prepared to examine and answer Susan Fenimore
+Cooper's arguments to the contrary. Many of those arguments are
+still heard daily in the press and on TV talk shows--not indeed to end
+women's right to vote, but as arguments against further steps
+towards gender equality. Unlike many modern commentators, Susan
+Fenimore Cooper examines these arguments in detail, both as to
+their roots and their possible effects, rather than expressing them as
+simplistic sound-bites. She asks her readers to examine whether
+gender equality is compatible with Christian teachings; whether
+universal suffrage can ever resolve social problems; whether the
+"political" sphere is as significant to human life as politicians
+believe. One need not agree with her answers, but one can only be
+grateful that she forces us to ask questions.
+
+{Hugh C. MacDougall, Secretary, James Fenimore Cooper Society--
+August 1999}
+
+
+
+
+
+FEMALE SUFFRAGE.
+A LETTER TO THE CHRISTIAN WOMEN OF AMERICA.
+Part I.
+
+
+
+
+{Publisher's Note} [NOTE.--We have printed this Letter, which will
+be continued in our next Number, not as an expression of our own
+views, but simply as the plea of an earnest and thoughtful Christian
+woman addressed to her fellow-countrywomen.--EDITOR OF
+HARPER.]
+
+
+
+The natural position of woman is clearly, to a limited degree, a
+subordinate one. Such it has always been throughout the world, in all
+ages, and in many widely different conditions of society. There are
+three conclusive reasons why we should expect it to continue so for
+the future.
+
+FIRST. Woman in natural physical strength is so greatly inferior to
+man that she is entirely in his power, quite incapable of self-
+defense, trusting to his generosity for protection. In savage life this
+great superiority of physical strength makes man the absolute
+master, woman the abject slave. And, although every successive
+step in civilisation lessens the distance between the sexes, and
+renders the situation of woman safer and easier, still, in no state of
+society, however highly cultivated, has perfect equality yet existed.
+This difference in physical strength must, in itself, always prevent
+such perfect equality, since woman is compelled every day of her life
+to appeal to man for protection, and for support.
+
+SECONDLY. Woman is also, though in a very much less degree,
+inferior to man in intellect. The difference in this particular may very
+probably be only a consequence of greater physical strength, giving
+greater power of endurance and increase of force to the intellectual
+faculty connected with it. In many cases, as between the best
+individual minds of both sexes, the difference is no doubt very slight.
+There have been women of a very high order of genius; there have
+been very many women of great talent; and, as regards what is
+commonly called cleverness, a general quickness and clearness of
+mind within limited bounds, the number of clever women may
+possibly have been even larger than that of clever men. But, taking
+the one infallible rule for our guide, judging of the tree by its fruits,
+we are met by the fact that the greatest achievements of the race in
+every field of intellectual culture have been the work of
+man. It is true that the advantages of intellectual education have
+been, until recently, very generally on the side of man; had those
+advantages been always equal, women would no doubt have had
+much more of success to record. But this same fact of inferiority of
+education becomes in itself one proof of the existence of a certain
+degree of mental inequality. What has been the cause of this
+inferiority of education? Why has not woman educated herself in past
+ages, as man has done? Is it the opposition of man, and the power
+which physical strength gives him, which have been the
+impediments? Had these been the only obstacles, and had that
+general and entire equality of intellect existed between the sexes,
+which we find proclaimed to-day by some writers, and by many
+talkers, the genius of women would have opened a road through
+these and all other difficulties much more frequently than it has yet
+done. At this very hour, instead of defending the intellect of women,
+just half our writing and talking would be required to defend the
+intellect of men. But, so long as woman, as a sex, has not provided
+for herself the same advanced intellectual education to the same
+extent as men, and so long as inferiority of intellect in man has
+never yet in thousands of years been gravely discussed, while the
+inferiority of intellect in woman has been during the same period
+generally admitted, we are compelled to believe there is some
+foundation for this last opinion. The extent of this difference, the
+interval that exists between the sexes, the precise degree of
+inferiority on the part of women, will probably never be satisfactorily
+proved.
+
+Believing then in the greater physical powers of man, and in his
+superiority, to a limited extent, in intellect also, as two sufficient
+reasons for the natural subordination of woman as a sex, we have
+yet a third reason for this subordination. Christianity can be proved
+to be the safest and highest ally of man's nature, physical, moral,
+and intellectual, that the world has yet known. It protects his
+physical nature at every point by plain, stringent rules of general
+temperance and moderation. To his moral nature it gives the
+pervading strength of healthful purity. To his intellectual nature,
+while on one hand it enjoins full development and vigorous action,
+holding out to the spirit the highest conceivable aspirations, on the
+other it teaches the invaluable lessons of a wise humility. This grand
+and holy religion, whose whole action is healthful, whose restraints
+are all blessings--this gracious religion, whose chief precepts are the
+love of God and the love of man--this same Christianity confirms the
+subordinate position of woman, by allotting to man the headship in
+plain language and by positive precept. No system of philosophy has
+ever yet worked out in behalf of woman the practical results for good
+which Christianity has conferred on her. Christianity has raised
+woman from slavery and made her the thoughtful companion of man;
+finds her the mere toy, or the victim of his passions, and it places
+her by his side, his truest friend, his most faithful counselor, his
+helpmeet in every worthy and honorable task. It protects her far
+more effectually than any other system. It cultivates, strengthens,
+elevates, purifies all her highest endowments, and holds out to her
+aspirations the most sublime for that future state of existence,
+where precious rewards are promised to every faithful discharge of
+duty, even the most humble. But, while conferring on her these
+priceless blessings, it also enjoins the submission of the wife to the
+husband, and allots a subordinate position to the whole sex while
+here on earth. No woman calling herself a Christian, acknowledging
+her duties as such, can, therefore, consistently deny the obligation
+of a limited subordination laid upon her by her Lord and His Church.
+
+>From these three chief considerations--the great inferiority of
+physical strength, a very much less and undefined degree of
+inferiority in intellect, and the salutary teachings of the Christian
+faith--it follows that, to a limited degree, varying with
+circumstances, and always to be marked out by sound reason and
+good feeling, the subordination of woman, as a sex, is inevitable.
+
+This subordination once established, a difference of position, and a
+consequent difference of duties, follow as a matter of course. There
+must, of necessity, in such a state of things, be certain duties
+inalienably connected with the position of man, others inalienably
+connected with the position of woman. For the one to assume the
+duties of the other becomes, first, an act of desertion, next, an act
+of usurpation. For the man to discharge worthily the duties of his
+own position becomes his highest merit. For the woman to discharge
+worthily the duties of her own position becomes her highest merit.
+To be noble the man must be manly. To be noble the woman must
+be womanly. Independently of the virtues required equally of both
+sexes, such as truth, uprightness, candor, fidelity, honor, we look in
+man for somewhat more of wisdom, of vigor, of courage, from natural
+endowment, combined with enlarged action and experience. In
+woman we look more especially for greater purity, modesty,
+patience, grace, sweetness, tenderness, refinement, as the
+consequences of a finer organization, in a protected and sheltered
+position. That state of society will always be the most rational, the
+soundest, the happiest, where each sex conscientiously discharges
+its own duties, without intruding on those of the other.
+
+It is true that the world has often seen individual women called by
+the manifest will of Providence to positions of the highest authority,
+to the thrones of rulers and sovereigns. And many of these women
+have discharged those duties with great intellectual ability and great
+success. It is rather the fashion now among literary men to
+depreciate Queen Elizabeth and her government. But it is clear that,
+
+440
+whatever may have been her errors--and no doubt they were grave--
+she still appears in the roll of history as one of the best sovereigns
+not only of her own house, but of all the dynasties of England.
+Certainly she was in every way a better and a more successful ruler
+than her own father or her own brother-in-law, and better also than
+the Stuarts who filled her throne at a later day. Catherine of Russia,
+though most unworthy as a woman, had a force of intellectual ability
+quite beyond dispute, and which made itself felt in every department
+of her government. Isabella I. of Spain gave proof of legislative and
+executive ability of the very highest order; she was not only one of
+the purest and noblest, but also, considering the age to which she
+belonged, and the obstacles in her way, one of the most skillful
+sovereigns the world has ever seen. Her nature was full of clear
+intelligence, with the highest moral and physical courage. She was in
+every way a better ruler than her own husband, to whom she proved
+nevertheless an admirable wife, acting independently only where
+clear principle was at stake. The two greet errors of her reign, the
+introduction of the Inquisition and the banishment of the Jews, must
+be charged to the confessor rather than to the Queen, and these
+were errors in which her husband was as closely involved as herself.
+On the other hand, some of the best reforms of her reign originated
+in her own mind, and were practically carried out under her own close
+personal supervision. Many other skillful female rulers might be
+named. And it is not only in civilized life and in Christendom that
+woman has shown herself wise in governing; even among the wildest
+savage tribes they have appeared, occasionally, as leaders and
+rulers. This is a singular fact. It may be proved from the history of
+this continent, and not only from the early records of Mexico and
+Cuba and Hayti, but also from the reports of the earliest navigators
+on our own coast, who here and there make mention incidentally of
+this or that female chief or sachem. But a fact far more impressive
+and truly elevating to the sex also appears on authority entirely
+indisputable. While women are enjoined by the Word of God to
+refrain from public teaching in the Church, there have been individual
+women included among the Prophets, speaking under the direct
+influence of the Most Holy Spirit of God, the highest dignity to which
+human nature can attain. But all these individual cases, whether
+political or religious, have been exceptional. The lesson to be
+learned from them is plain. We gather naturally from these facts,
+what may be learned also from other sources, that, while the
+positions of the two sexes are as such distinct, the one a degree
+superior, the other a degree inferior, the difference between them is
+limited--it is not impassable in individual cases. The two make up
+but one species, one body politic and religious. There are many
+senses besides marriage in which the two are one. It is the right
+hand and the left, both belonging to one body, moved by common
+feeling, guided by common reason. The left hand may at times be
+required to do the work of the right, the right to act as the left. Even
+in this world there are occasions when the last are first, the first
+last, without disturbing the general order of things. These
+exceptional cases temper the general rule, but they can not abrogate
+that rule as regards the entire sex. Man learns from them not to
+exaggerate his superiority--a lesson very often needed. And woman
+learns from them to connect self-respect and dignity with true
+humility, and never, under any circumstances, to sink into the mere
+tool and toy of man--a lesson equally important.
+
+Such until the present day has been the general teaching and
+practice of Christendom, where, under a mild form, and to a limited
+point, the subordination of woman has been a fact clearly
+established. But this teaching we are now called upon to forget, this
+practice we are required to abandon. We have arrived at the days
+foretold by the Prophet, when "knowledge shall be increased, and
+many shall run to and fro." The intellectual progress of the race
+during the last half century has indeed been great.  But admiration is
+not the only feeling of the thoughtful mind when observing this
+striking advance in intellectual acquirement. We see that man has
+not yet fully mastered the knowledge he has acquired. He runs to
+and fro. He rushes from one extreme to the other. How many
+chapters of modern history, both political and religious, are full of
+the records of this mental vacillation of our race, of this illogical and
+absurd tendency to pass from one extreme to the point farthest from
+it!
+
+An adventurous party among us, weary of the old paths, is now
+eagerly proclaiming theories and doctrines entirely novel on this
+important subject. The EMANCIPATION OF WOMAN is the name
+chosen by its advocates for this movement. They reject the idea of
+all subordination, even in the mildest form, with utter scorn. They
+claim for woman absolute social and political equality with man. And
+they seek to secure these points by conferring on the whole sex the
+right of the elective franchise, female suffrage being the first step in
+the unwieldy revolutions they aim at bringing about. These views are
+no longer confined to a small sect. They challenge our attention at
+every turn. We meet them in society; we read them in the public
+prints; we hear of them in grave legislative assemblies, in the
+Congress of the Republic, in the Imperial Parliament of Great Britain.
+The time has come when it is necessary that all sensible and
+conscientious men and women should make up their minds clearly on
+a subject bearing upon the future condition of the entire race.
+
+There is generally more than one influence at work in all public
+movements of importance. The motive power in such cases is very
+seldom
+
+441
+simple. So it has been with the question of female suffrage. The
+abuses inflicted on woman by legislation, the want of sufficient
+protection for her interests when confided to man, are generally
+asserted by the advocates of female suffrage as the chief motives
+for a change in the laws which withhold from her the power of voting.
+But it is also considered by the friend of the new movement that to
+withhold the suffrage from half the race is an inconsistency in
+American politics; that suffrage is an inalienable right, universal in
+its application; that women are consequently deprived of a great
+natural right when denied the power of voting. A third reason is also
+given for this proposed change in our political constitution. It is
+asserted that the entire sex would be greatly elevated in intellectual
+and moral dignity by such a course; and that the effect on the whole
+race would therefore be most advantageous, as the increased
+influence of woman in public affairs would purify politics, and elevate
+the whole tone of political life. Here we have the reason for this
+movement as advanced by its advocates. These are the points on
+which they lay the most stress:
+
+FIRST. The abuse of legislative power in man, by oppressing the sex.
+
+SECONDLY. The inalienable natural right of woman to vote; and
+imperatively so in a country where universal suffrage is a great
+political principle.
+
+THIRDLY. The elevation of the sex, and the purification of politics
+through their influence.
+
+Let us consider each of these points separately.
+
+FIRST. THE ABUSE OF LEGISLATIVE POWER BY MAN IN THE
+OPPRESSION OF WOMEN.
+
+In some countries of Europe much of wrong is still done to woman,
+at the present day, by old laws owing their existence to a past state
+of things, and which have not yet been repealed or modified to suit
+existing circumstances. But we are writing now to American women,
+and, instead of the evils existing in the other hemisphere, we are
+looking at a very different state of society. Let us confine ourselves,
+therefore, to the subject as it affects ourselves.
+
+To go into all the details which might be drawn together from the
+statute books of the different States of the Union bearing on this
+point, and to do them full justice, would require volumes. Such a
+course is not necessary. The question can be decided with truth and
+justice on general principles--on generally admitted facts. We admit,
+then, that in some States--perhaps in all--there may be laws in
+which the natural and acquired rights of woman have not been fairly
+considered; that in some cases she has needed more legal protection
+and more privileges than she has yet received. But while this
+admission is made, attention is at the same time demanded for a
+fact inseparably connected with it; namely, the marked and generous
+liberality which American men have thus far shown in the considerate
+care and protection they have, as a general rule, given to the
+interests of women. In no country, whether of ancient or modern
+times, have women had less to complain of in their treatment by
+man than in America. This is no rhetorical declamation; it is the
+simple statement of an undeniable fact. It is a matter of social
+history. Since the days of early colonial life to the present hour--or,
+in other words, during the last two hundred and fifty years--such has
+been the general course of things in this country. The hardest tasks
+have been taken by man, and a generous tenderness has been
+shown to women in many of the details of social life, pervading all
+classes of society, to a degree beyond what is customary even in the
+most civilized countries of Europe. Taking these two facts together--
+that certain abuses still exist, that certain laws and regulations need
+changing and that, as a general rule, American women have thus far
+been treated by their countrymen with especial consideration, in a
+legal and in a social sense--the inference becomes perfectly plain. A
+formidable and very dangerous social revolution is not needed to
+correct remaining abuses. Any revolution aiming at upsetting the
+existing relations of the sexes--relations going back to the earliest
+records and traditions of the race--can not be called less than
+formidable and dangerous. Let women make full use of the
+influences already at their command, and all really needed changes
+may be effected by means both sure and safe--means already
+thoroughly tried. Let them use all the good sense, all the
+information, all the eloquence, and, if they please, all the wit, at
+their command when talking over these abuses in society. Let them
+state their views, their needs, their demands, in conscientiously
+written papers. Let them appeal for aid to the best, the wisest, the
+most respected men of the country, and the result is certain. Choose
+any one real, existing abuse as a test of the honesty and the
+liberality of American men toward the women of the country, and we
+all know before-hand what shall be the result.*
+
+{FOOTNOTE by SFC} * There is an injustice in the present law of
+guardianship in the State of New York, which may be named as one
+of those abuses which need reformation. A woman can not now, in
+the State of New York, appoint a guardian for her child, even though
+its father be dead. The authority for appointing a guardian otherwise
+than by the courts is derived from the Revised statutes, p. 1, title 3,
+chapter 8, part 2, and that passage gives the power to the father
+only. The mother is not named. It has been decided in the courts
+that a mother can not make this appointment--12 Howard's Practical
+Reports, 532. This is certainly very unjust and very unwise. But let
+any dozen women of respectability take the matter in hand, and, by
+the means already at their command, from their own chimney-
+corners, they can readily procure the insertion of the needful clause.
+And so with any other real abuse. Men are now ready to listen, and
+ready to act, when additional legislation is prudently and sensibly
+asked for by their wives and mothers. How they may act when
+women stand before them, armed CAP-A-PIE, and prepared to
+demand legislation at the point of the bayonet, can not yet be
+known. {END FOOTNOTE}
+
+If husbands, fathers, brothers, are ready any day to shed their
+heart's blood for our personal defense in
+
+442
+the hour of peril, we may feel perfectly assured that they will also
+protect us, when appealed to, by legislation. When they lay down
+their arms and refuse to fight for us, it will then be time to ask them
+to give up legislation also. But until that evil hour arrives let men
+make the laws, and let women be content to fill worthily, to the very
+best of their abilities, the noble position which the Heavenly Father
+has already marked out for them. There is work to be done in that
+position reaching much higher, going much farther, and penetrating
+far deeper, than any mere temporary legislation can do. Of that work
+we shall speak more fully a moment later.
+
+SECONDLY. THE INALIENABLE NATURAL RIGHT OF WOMAN TO VOTE;
+AND IMPERATIVELY SO IN A COUNTRY WHERE UNIVERSAL SUFFRAGE
+IS A GREAT POLITICAL PRINCIPLE.
+
+This second proposition of the advocates of female suffrage is of a
+general character. It does not point to particular abuses, it claims
+the right of woman to vote as one which she should demand,
+whether practically needed or not. It is asserted that to disqualify
+half the race from voting is an abuse entirely inconsistent with the
+first principles of American politics. The answer to this is plain. The
+elective franchise is not an end; it is only a means. A good
+government is indeed an inalienable right. Just so far as the elective
+franchise will conduce to this great end, to that point it becomes
+also a right, but no farther. A male suffrage wisely free, including all
+capable of justly appreciating its importance, and honestly
+discharging its responsibilities, becomes a great advantage to a
+nation. But universal suffrage, pushed to its extreme limits, including
+all men, all women, all minors beyond the years of childhood, would
+inevitably be fraught with evil. There have been limits to the
+suffrage of the freest nations. Such limits have been found necessary
+by all past political experience. In this country, at the present hour,
+there are restrictions upon the suffrage in every State. Those
+restrictions vary in character. They are either national, relating to
+color, political, mental, educational, connected with a property
+qualification, connected with sex, connected with minority of years,
+or they are moral in their nature.*
+
+[FOOTNOTE by SFC} *In connection with this point of moral
+qualification we venture to ask a question. Why not enlarge the
+criminal classes from whom the suffrage is now withheld? Why not
+exclude every man convicted of any degrading legal crime, even petty
+larceny? And why not exclude from the suffrage all habitual
+drunkards judicially so declared? These are changes which would do
+vastly more of good than admitting women to vote. {END
+FOOTNOTE}
+
+This restriction connected with sex is, in fact, but one of many other
+restrictions, considered more or less necessary even in a democracy.
+Manhood suffrage is a very favorite term of the day. But, taken in
+the plain meaning of those words, such fullness of suffrage has at
+the present hour no actual existence in any independent nation, or in
+any extensive province. It does not exist, as we have just seen,
+even among the men of America. And, owing to the conditions of
+human life, we may well believe that unrestricted fullness of
+manhood suffrage never can exist in any great nation for any length
+of time. In those States of the American Union which approach
+nearest to a practical manhood suffrage, unnaturalized foreigners,
+minors, and certain classes of criminals, are excluded from voting.
+And why so? What is the cause of this exclusion? Here are men by
+tens of thousands--men of widely different classes and conditions--
+peremptorily deprived of a privilege asserted to be a positive
+inalienable right universal in its application. There is manifestly
+some reason for this apparently contradictory state of things. We
+know that reason to be the good of society. It is for the good of
+society that the suffrage is withheld from those classes of men. A
+certain fitness for the right use of the suffrage is therefore deemed
+necessary before granting it. A criminal, an unnaturalized foreigner, a
+minor, have not that fitness; consequently the suffrage is withheld
+from them. The worthy use of the vote is, then, a qualification not
+yet entirely overlooked by our legislators. The State has had, thus
+far, no scruples in withholding the suffrage even from men, whenever
+it has believed that the grant would prove injurious to the nation.
+
+Here we have the whole question clearly defined. The good of society
+is the true object of all human government. To this principle suffrage
+itself is subordinate. It can never be more than a means looking to
+the attainment of good government, and not necessarily its corner-
+stone. Just so far is it wise and right. Move one step beyond that
+point, and instead of a benefit the suffrage may become a cruel
+injury. The governing power of our own country--the most free of all
+great nations--practically proclaims that it has no right to bestow the
+suffrage wherever its effects are likely to become injurious to the
+whole nation, by allotting different restrictions to the suffrage in
+every State of the Union. The right of suffrage is, therefore, most
+clearly not an absolutely inalienable right universal in its application.
+It has its limits. These limits are marked out by plain justice and
+common-sense. Women have thus far been excluded from the
+suffrage precisely on the same principles--from the conviction that to
+grant them this particular privilege would, in different ways, and
+especially by withdrawing them from higher and more urgent duties,
+and allotting to them other duties for which they are not so well
+fitted, become injurious to the nation, and, we add, ultimately
+injurious to themselves, also, as part of the nation. If it can be
+proved that this conviction is sound and just, founded on truth, the
+assumed inalienable right of suffrage, of which we have been hearing
+so much lately, vanishes into the "baseless fabric of a vision." If the
+right were indeed inalienable, it should be granted, without regard to
+consequences, as an act of abstract justice. But, happily for us,
+none but the very wildest theorists are prepared to take this view of
+the question of suffrage. The advocates of female suffrage must,
+therefore, abandon the claim of inalienable right. Such a claim can
+not logically be maintained for one moment in the face of existing
+facts. We proceed to the third point.
+
+THIRDLY. THE ELEVATION OF THE ENTIRE SEX, THE GENERAL
+PURIFICATION OF POLITICS THROUGH THE INFLUENCE OF WOMEN,
+AND THE CONSEQUENT ADVANCE OF THE WHOLE RACE. Such, we are
+told, must be the inevitable results of what is called the
+emancipation of woman, the entire independence of woman through
+the suffrage.
+
+Here we find ourselves in a peculiar position. While considering the
+previous points of this question we have been guided by positive
+facts, clearly indisputable in their character. Actual, practical
+experience, with the manifold teachings at her command, has come
+to our aid. But we are now called upon, by the advocates of this
+novel doctrine, to change our course entirely. We are under orders to
+sail out into unknown seas, beneath skies unfamiliar, with small
+light from the stars, without chart, without pilot, the port to which
+we are bound being one as yet unvisited by mortal man--or woman!
+Heavy mist, and dark cloud, and threatening storm appear to us
+brooding over that doubtful sea. But something of prophetic vision is
+required of us. We are told that all perils which seem to threaten the
+first stages of our course are entirely illusive--that they will vanish
+as we approach--that we shall soon arrive in halcyon waters, and
+regions where wisdom, peace, and purity reign supreme. If we
+cautiously inquire after some assurance of such results, we are told
+that to those sailing under the flag of progress triumph is inevitable,
+failure is impossible; and that many of the direst evils hitherto
+known on earth must vanish at the touch of the talisman in the hand
+of woman--and that talisman is the vote.
+
+Now, to speak frankly--and being as yet untrammeled by political
+aspirations, we fearlessly do so--as regards this flag of progress, we
+know it to be a very popular bit of bunting; but to the eye of
+common-sense it is grievously lacking in consistency. The flag of our
+country means something positive. We all love it; we all honor it. It
+represents to us the grand ideas by which the nation lives. It is the
+symbol of constitutional government, of law and order, of union, of a
+liberty which is not license. It is to us the symbol of all that may be
+great and good and noble in the Christian republic. But this vaunted
+flag of progress, so alluring to many restless minds, is vague in its
+colors, unstable, too often illusive, in web and woof. Many of its
+most prominent standard-bearers are clad in the motley garb of
+theorists. Their flag may be seen wandering to and fro, hither and
+thither, up and down, swayed by every breath of popular caprice; so
+it move to the mere cry of "Progress!" its followers are content. To-
+day, in the hands of the skeptical philosopher, it assaults the
+heavens. Tomorrow it may: float over the mire of Mormonism, or
+depths still more vile. It was under the flag of progress that, in the
+legislative halls of France, the name of the Holy Lord God of Hosts,
+"who inhabiteth eternity," was legally blasphemed. It was under the
+flag of progress that, on the 10th of November, 1793, Therese
+Momoro, Goddess of Reason, and wife of the printer Momoro, was
+borne in triumph, by throngs of worshipers, through the streets of
+Paris, and enthroned in the house of God.
+
+Beyond all doubt, there is now, as there ever has been, an onward
+progress toward truth on earth. But that true progress is seldom
+rapid, excepting perhaps in the final stages of some particular
+movement. It is, indeed, often so slow, so gradual, as to be
+imperceptible at the moment to common observation. It is often
+silent, wonderful, mysterious, sublime. It is the grand movement
+toward the Divine Will, working out all things for eventual good. In
+looking back, there are for every generation way-marks by which the
+course of that progress may be traced. In looking forward no mortal
+eye can foresee its immediate course. The ultimate end we know,
+but the next step we can not foretell. The mere temporary cry of
+progress from human lips has often been raised in direct opposition
+to the true course of that grand, mysterious movement. It is like the
+roar of the rapids in the midst of the majestic stream, which, in the
+end, shall yield their own foaming waters to the calm current moving
+onward to the sea. We ask, then, for something higher, safer, more
+sure, to guide us than the mere popular cry of "Progress!" We dare
+not blindly follow that cry, nor yield thoughtless allegiance to every
+flag it upholds.
+
+Then, again, as regards that talisman, the vote, we have but one
+answer to make. We do not believe in magic. We have a very firm
+and unchangeable faith in free institutions, founded on just
+principles. We entirely believe that a republican form of government
+in a Christian country may be the highest, the noblest, and the
+happiest that the world has yet seen. Still, we do not believe in
+magic. And we do not believe in idolatry. We Americans are just as
+much given to idolatry as any other people. Our idols may differ from
+those of other nations; but they are, none the less, still idols. And it
+strikes the writer that the ballot-box is rapidly becoming an object of
+idolatry with us. Is it not so? From the vote alone we expect all
+things good. From the vote alone we expect protection against all
+things evil. Of the vote Americans can never have too much--of the
+vote they can never have enough. The vote is expected by its very
+touch, suddenly and instantaneously, to produce miraculous changes;
+it is expected to make the foolish wise, the ignorant knowing, the
+weak strong, the fraudulent honest. It is expected to turn dross into
+gold. It is held to be the great
+educator, not only as regards races, and under the influence of time,
+which is in a measure true, but as regards individuals and classes of
+men, and that in the twinkling of an eye, with magical rapidity. Were
+this theory practically sound, the vote would really prove a talisman.
+In that case we should give ourselves no rest until the vote were
+instantly placed in the hands of every Chinaman landing in California,
+and of every Indian roving over the plains. But, in opposition to this
+theory, what is the testimony of positive facts known to us all? Are
+all voters wise? Are all voters honest? Are all voters enlightened?
+Are all voters true to their high responsibilities? Are all voters
+faithful servants of their country? Is it entirely true that the vote has
+necessarily and really these inherent magical powers of rapid
+education for individuals and for classes of men, fitting them, in
+default of other qualifications, for the high responsibilities of
+suffrage? Alas! we know only too well that when a man is not
+already honest and just and wise and enlightened, the vote he holds
+can not make him so. We know that if he is dishonest, he will sell
+his vote; if he is dull and ignorant, he is misled, for selfish purposes
+of their own, by designing men. As regards man, at least, the vote
+can be too easily proved to be no talisman. It is very clear that for
+man the ballot-box needs to be closely guarded on one side by
+common-sense, on the other by honesty. A man must be endowed
+with a certain amount of education and of principle, before he
+receives the vote, to fit him for a worthy use of it. And if the vote be
+really no infallible talisman for man, why should we expect it to work
+magical wonders in the hands of woman?
+
+But let us drop the play of metaphor, appropriate though it be when
+facing the visions of political theorists. Let us look earnestly and
+clearly at the positive facts before us. We are gravely told that to
+grant the suffrage to woman would be a step inevitably beneficial
+and elevating to the whole sex, and, through their influence, to the
+entire race, and that, on this ground alone, the proposed change in
+the constitution should be made. Here, so far at least as the
+concluding proposition goes, we must all agree. If it can be clearly
+proved that this particular change in our institutions is one so
+fraught with blessings, we are bound to make it at every cost. The
+true elevation of the whole race: that is what we are all longing for,
+praying for. And is it indeed true that this grand work can effectually
+be brought about by the one step we are now urged to take? What
+says actual experience on this point? The whole history of mankind
+shows clearly that, as yet, no one legislative act has ever
+accomplished half of what is claimed by the advocates of woman's
+suffrage as the inevitable result of the change they propose. No one
+legislative act has ever been so widely comprehensive in its results
+for good as they declare that this act shall be. No one legislative act
+has ever raised the entire race even within sight of the point of
+elevation predicted by the champions of what is called the
+emancipation of woman. Hear them speak for themselves: "It is
+hardly possible, with our present experience, to raise our
+imaginations to the conception of so great a change for the better as
+would be made by its removal"--the removal of the principle of the
+subordination of the wife to the husband, and the establishment of
+the entire independence of women, to be obtained by female
+suffrage. These are not the words of some excited woman making a
+speech at a public meeting. The quotation is from the writings of Mr.
+Stuart Mill. The subordination of the wife to the husband is declared
+by Mr. Mill to be "the citadel of the enemy." Storm the citadel,
+proclaim the entire independence of the wife, and our feeble
+imaginations, we are told, are utterly incapable of conceiving the
+glorious future of the race consequent upon this one step. This is a
+very daring assertion. It is so bold, indeed, as to require something
+of positive proof ere we can yield to it our implicit belief. The citadel
+we are urged to storm was built by the hand of God. The flag waving
+over that citadel is the flag of the Cross. When the Creator made
+one entire sex so much more feeble in physical powers than the
+other, a degree of subordination on the part of the weaker sex
+became inevitable, unless it were counteracted by increase of mental
+ability, strengthened by special precept. But the mental ability, so
+far as there is a difference, and the precept, are both on the side of
+the stronger sex. The whole past history of the race coincides so
+clearly with these facts that we should suppose that even those who
+are little under the influence of Christian faith might pause era they
+attacked that citadel. Common-sense might teach them something of
+caution, something of humility, when running counter to the whole
+past experience of the race. As for those who have a living belief in
+the doctrines of Christianity, when they find that revealed religion,
+from the first of the Prophets to the last of the Apostles, allots a
+subordinate position to the wife, they are compelled to believe
+Moses and St. Paul in the right, and the philosophers of the present
+day, whether male or female, in the wrong. To speak frankly, the
+excessive boldness of these new theories, the incalculable and
+inconceivable benefits promised us from this revolution from the
+natural condition of things in Christendom--and throughout the world
+indeed--would lead us to suspicion. Guides who appeal to the
+imagination when discussing practical questions are not generally
+considered the safest. And the champions of female suffrage are
+necessarily compelled to take this course. They have no positive
+foundation to rest on. Mr. Stuart Mill has said in Parliament, in
+connection with this subject, that "the tyranny of established custom
+has entirely passed away." Nothing can be more true than this
+assertion. As a rule, the past is now looked upon with doubt,
+with suspicion, often with a certain sort of contempt, very far from
+being always consistent with sound reason. The tyranny of the
+present day--and it may be just as much a tyranny as the other--is
+radically opposite in character. It is the tyranny of novelty to which
+we are most exposed at present. The dangers lie chiefly in that
+direction. There will be little to fear from the old until the hour of
+reaction arrives, as it inevitably must, if the human mind be strained
+too far in a new direction. At present the more startling an assertion,
+the farther it wanders from all past experience, the greater are its
+chances of attracting attention, of gaining adherents, of achieving at
+least a partial and temporary success. In the age and in the country
+which has seen the development of Mormonism as a successful
+religious, social, and political system, nothing should surprise us.
+Such is the restlessness of human nature that it will often, from
+mere weak hankering after change, hug to its bosom the wildest
+theories, and yield them a temporary allegiance.
+
+Let us suppose that to-day the proposed revolution were effected;
+all women, without restriction, even the most vile, would be
+summoned to vote in accordance with their favorite theory of
+inalienable right. That class of women, and other degraded classes
+of the ignorant and unprincipled, will always be ready to sell their
+votes many times over--to either party, to both parties, to the
+highest bidder, in short. They will sell their vote much more readily
+than the lowest classes of men now do. They will hold it with greater
+levity. They will trifle with it. They will sell their vote any day for a
+yard of ribbon or a tinsel brooch--unless they are offered two yards
+of ribbon or two brooches. They will vote over again every hour of
+every election day, by cunning disguises and trickery. And thus, so
+far as women are concerned, the most degraded element in society
+will, in fact, represent the whole sex. Nay, they will probably not
+unfrequently command the elections, as three colored women are
+said once to have done in New Jersey. A hundred honest and
+intelligent women can have but one vote each, and at least fifty of
+these will generally stay at home. If, which God forbid, it actually
+comes to female voting, a very small proportion of the sex will, at
+common elections, appear at the polls. Avocations more urgent,
+more natural to them, and in which they are more deeply interested,
+will keep them away. The degraded women will be there by the
+scores, as tools of men, enjoying both the importance of the hour,
+the fun, and THE PAY. Fifty women, known to be thieves and
+prostitutes, will hold, at a moderate calculation, say two hundred
+votes. And, as women form the majority of the resident population in
+some States, that wretched element of society will, in fact, govern
+those States, or those who bribe them will do so. Massachusetts,
+very favorable to female suffrage now, will probably come round to
+the opinion of New Jersey in former days. Great will be the
+consumption of cheap ribbons, and laces, and artificial flowers, and
+feathers, and tinsel jewelry, in every town and village about election
+time, after emancipation is achieved. We are compelled to believe
+so, judging from our knowledge of human nature, and of the use
+already made of bribery at many elections. The demagogues will be
+more powerful than ever. Their work will be made easy for them. It
+seems, indeed, probable that under the new era our great elections
+shall become a sort of grand national gift concerns, of which the
+most active demagogues of all parties will be the managers. Not
+that women are more mercenary, or more unprincipled than men. God
+forbid! That would be saying too much. We entirely believe the
+reverse to be true. But the great mass of women can never be made
+to take a deep, a sincere, a discriminating, a lasting interest in the
+thousand political questions ever arising to be settled by the vote.
+They very soon weary of such questions. On great occasions they can
+work themselves up to a state of frenzied excitement over some one
+political question. At such times they can parade a degree of
+unreasoning prejudice, of passionate hatred, of blind fury, even
+beyond what man can boast of. But, in their natural condition, in
+everyday life, they do not take instinctively to politics as men do.
+Men are born politicians; just as they are born masons, and
+carpenters, and soldiers, and sailors. Not so women. Their thoughts
+and feelings are given to other matters. The current of their chosen
+avocations runs in another channel than that of politics--a channel
+generally quite out of sight of politics; it is an effort for them to turn
+from one to the other. With men, on the contrary, politics, either
+directly or indirectly, are closely, palpably, inevitably blended with
+their regular work in life. They give their attention unconsciously,
+spontaneously; to politics. Look at a family of children, half boys,
+half girls; the boys take instinctively to whips and guns and balls
+and bats and horses, to fighting and wrestling and riding; the girls
+fondle their dolls, beg for a needle and thread, play at housekeeping,
+at giving tea-parties, at nursing the sick baby, at teaching school.
+That difference lasts through life. Give your son, as he grows up, a
+gun and a vote; he will delight in both. Give your daughter, as she
+grows up, a gun and a vote, and, unless she be an exceptional
+woman, she will make a really good use of neither. Your son may be
+dull; but he will make a good soldier, and a very tolerable voter.
+Your daughter may be very clever; but she would certainly run away
+on the battle-held, and very probably draw a caricature on the
+election ticket. There is the making of an admirable wife and mother,
+and a valuable member of society, in that clever young woman. She
+is highly intelligent, thoroughly well educated, reads Greek and
+Latin, and has a wider range of knowledge and thought than ninety-
+nine in a hundred of the voters in the same district; but there is
+nothing of the
+politician in her nature. She would rather any day read a fine poem
+than the best political speech of the hour. What she does know of
+politics reaches her through that dull but worthy brother of hers. It is
+only occasionally that we meet women with an inherent bias for
+politics; and those are not, as a rule, the highest type of the sex--it
+is only occasionally that they are so. The interest most women feel
+in politics is secondary, factitious, engrafted on them by the men
+nearest to them. Women are not abortive men; they are a distinct
+creation. The eye and the ear, though both belonging to the same
+body, are each, in a certain sense, a distinct creation. A body
+endowed with four ears might hear remarkably well; but without eyes
+it would be of little use in the world. A body with four eyes would
+have a fourfold power of vision, and would consequently become
+nearly as sharp-sighted as a spider; but without hearing its powers
+of sight would avail little. In both cases, half the functions of the
+human being, whether physical or mental, would be very imperfectly
+performed. Thus it is with men and women; each has a distinct
+position to fill in the great social body, and is especially qualified for
+it. These distinct positions are each highly important. And it is
+reasonable to believe that, by filling their own peculiar position
+thoroughly well, women can best serve their Creator, their fellow-
+creatures, and themselves. No doubt you may, if you choose, by
+especial education from childhood upward, make your girls very
+respectable politicians, as much so as the majority of your sons. But
+in that case you must give up your womanly daughters--you must be
+content with manly daughters. This essential difference between the
+sexes is a very striking fact; yet the advocates of female suffrage
+constantly lose sight of it; they talk and write as if it had no
+existence. It is not lack of intellect on the part of women, but
+difference of intellect, or rather a difference of organization and
+affinities giving a different bias to the intellect, which is the cause of
+their distinct mental character as a sex. And, owing to this essential
+difference, the great majority of women are naturally disinclined to
+politics, and partially unfitted for action in that field.
+
+
+
+
+FEMALE SUFFRAGE.
+A LETTER TO THE CHRISTIAN WOMEN OF AMERICA.
+Part II.
+
+LET us now look for a moment at the actual condition of women in
+America, in connection with the predicted elevation. We are told they
+are to be elevated by the suffrage--and that by hanging on to the
+election tickets in the hands of their wives, the men are to be
+elevated with them. What, therefore, is the ground women now
+occupy, and from whence they are to soar upward on the paper wings
+of the ballot? The principal facts connected with that position are
+self-evident; there is nothing vague or uncertain here; we have but
+to look about us and the question is answered. We already know, for
+instance, from daily observation and actual experience, that, as a
+general rule, the kindness and consideration of American men have
+been great, both in public and in private life. We know that in
+American society women have been respected, they have been
+favored, they have been protected, they have been beloved. There
+has been a readiness to listen to their requests, to redress
+grievances, to make changes whenever these have become necessary
+or advisable. Such, until very recently, has been the general current
+of public feeling, the general tendency of public action, in America. If
+there appear to-day occasional symptoms of a change in the tone of
+men on this point, it is to be attributed to the agitation of the very
+question we are now discussing. Whenever women make ill-judged,
+unnatural, extravagant demands, they must prepare to lose ground.
+Yes, even where the particular points in dispute are conceded to
+their reiterated importunity, they must still eventually lower their
+general standing and consideration by every false step. There are
+occasions where victory is more really perilous than a timely defeat;
+a temporary triumph may lead to ground which the victors can not
+permanently hold to their own true and lasting advantage. On the
+other hand, every just and judicious demand women may now make
+with the certainty of successful results. This is, indeed, the great
+fact which especially contributes to render the birthright of American
+women a favorable one.  If the men of the country are already
+disposed to redress existing grievances, where women are
+concerned, as we know them to be, and if they are also ready, as we
+know them to be, to forward all needful future development of true
+womanly action, what more, pray, can we reasonably ask of them?
+Where lies this dim necessity of thrusting upon women the burdens
+of the suffrage? And why should the entire nation be thrown into the
+perilous convulsions of a revolution more truly formidable than any
+yet attempted on earth? Bear in mind that this is a revolution which,
+if successful in all its aims, can scarcely fail to sunder the family
+roof-tree, and to uproot the family hearth-stone. It is the avowed
+determination of many of its champions that it shall do so; while
+with another class of its leaders, to weaken and undermine the
+authority of the Christian faith in the household is an object if not
+frankly avowed yet scarcely concealed. The great majority of the
+women enlisted in this movement--many of them, it is needless to
+say, very worthy persons as individuals--are little aware of all the
+perils into which some of their most zealous male allies would lead
+them. Degradation for the sex, and not true and lasting elevation,
+appear to most of us likely to be the end to which this movement
+must necessarily tend, unless it be checked by the latent good
+sense, the true wisdom, and the religious principle of women
+themselves, aroused, at length, to protest, to resist. If we are called
+upon for proof of the assertion, that American men are already
+prepared to redress actual grievances, we find that proof in their
+course at the present moment. Observe the patience with which our
+legislative bodies are now considering the petitions of a clamorous
+minority demanding the redress of a fictitious grievance--a minority
+demanding a political position which the majority of their sex still
+utterly reject--a position repugnant to the habits, the feelings, the
+tastes, and the principles of that majority. If men are willing to give
+their attention to these querulous demands of a small minority of our
+sex, how much more surely may we rely on their sympathy, and their
+efficient support, when
+some measure in which the interests of the whole sex are clearly
+involved shall be brought before them by all their wives and
+mothers?
+
+And again: they are not only already prepared to redress grievances,
+but also to forward all needed development of true womanly action.
+Take, in proof of this, assertion, the subject of education. This is,
+beyond all doubt the vital question of the age, embracing within its
+limits all others. Education is of far more importance than the
+suffrage, which is eventually subject to it, controlled by it. This is,
+indeed, a question altogether too grave, too comprehensive, and too
+complicated in some of its bearings to be more than briefly alluded
+to here. But let us consider education for a moment as the mere
+acquirement of intellectual knowledge. This is but one of its phases,
+and that one not the most important; but such is the popular,
+though very inadequate, idea of the subject in America. Observe how
+much has already been done in this sense for the instruction of the
+woman of our country. In the common district schools, and even in
+the high schools of the larger towns, the same facilities are generally
+offered to both sexes; in the public schools brother and sister have,
+as a rule, the same books and the same teachers. And we may go
+much further and say that every woman in the country may already--
+IF SHE IS DETERMINED TO DO SO--obtain very much the same
+intellectual instruction which her own brother receives. If that
+education is a highly advanced one she will, no doubt, have some
+special difficulties to contend against; but those difficulties are not
+insurmountable. The doors of most colleges and universities are
+closed, it is true, against women, and we can not doubt that this
+course is taken for sound reasons, pointed out by good sense and
+true sagacity. It is impossible not to believe that between the ages
+of fifteen and five-and-twenty young men and young women will
+carry on their intellectual training far more thoroughly and
+successfully apart than thrown into the same classes. At that age of
+vivid impressions and awakening passions, the two sexes are
+sufficiently thrown together in family life and in general society for
+all purposes of mutual influence and improvement. Let them chat,
+walk, sing, dance together, at that period of their lives; but if you
+wish to make them good scholars, let them study apart. Let their
+loves and jealousies be carried on elsewhere than in the college
+halls. But already female colleges, exclusively adapted to young
+women, are talked of--nay, here and there one or two such colleges
+now exist. There is nothing in which American men more delight,
+nothing more congenial to their usual modes of thought and action,
+than to advance the intellectual instruction of the whole nation,
+daughters as well as sons. We may rest assured that they will not
+fail to grant all needful development in this direction. One female
+college, of the very highest intellectual standard, would probably be
+found sufficient for a population of some millions. The number of
+women desiring a full college education will always, for many
+different reasons, be much smaller than the number of male
+students. But there is no good reason why such colleges, when found
+desirable, should not enter into our future American civilization.
+Individual American women may yet, by these means, make high
+progress in science, and render good service to the country and the
+race. Every branch of study which may be carried on thoroughly and
+successfully, without impairing womanly modesty of mind and
+manner, should be so far opened to the sex as to allow those
+individuals to whom Providence has given the ability for deep
+research to carry them to the farthest point needed. But as regards
+those studies which are intended to open the way to professions
+essentially bold and masculine in character, we do not see how it is
+within the bounds of possibility for young women to move onward in
+that direction without losing some of their most precious womanly
+prerogatives--without, in short, unsexing themselves.
+
+The really critical point with regard to the present position of women
+in America is the question of work and wages. Here the pocket of
+man is touched. And the pocket is the most sensitive point with
+many men, not only in America, but all the world over. There can be
+no doubt whatever that women are now driven away from certain
+occupations, to which they are well adapted, by the selfishness of
+some men. And in many departments where they are day-laborers for
+commercial firms they are inadequately paid, and compelled to
+provide food, lodging, fuel, and light out of scanty wages. Yes, we
+have here one of the few real grievances of which American women
+have a just right to complain. But even here--even where the pocket
+is directly touched, we still believe that women may obtain full
+justice in the end, by pursuing the right course. Only let the reality
+of the grievance be clearly proved, and redress will follow, ere long.
+Providence has the power of bringing good out of evil; and therefore
+we believe that the movement now going on will here, at least, show
+some lasting results for good. The "Song of the Shirt" shall, we trust,
+ere long become an obsolete lay in our country. Our women, twenty
+years hence, shall be better paid in some of their old fields of labor;
+and new openings, appropriate to their abilities, mental and
+physical, shall also be made for them. And here they are much more
+likely to succeed without the suffrage than with it. It is not by
+general law-making that they can better themselves in these
+particulars. Individual fitness for this or that branch of work is what
+is required for success. And if, by thorough preparation, women can
+discharge this or that task, not essentially masculine in its
+requirements, as well as men, they may rest assured that in the end
+their wages will be the same as those of their fathers and brothers
+in the same field of work.
+
+And how is it with our homes--how fares it with American women in
+the family circle? To all right-minded women the duties connected
+with home are most imperative, most precious, most blessed of all,
+partaking as they do of the spirit of religious duty. To women this
+class of duties is by choice, and by necessity, much more absorbing
+than it is to men. It is the especial field of activity to which
+Providence has called them; for which their Maker has qualified them
+by peculiar adaptation of body and mind. To the great majority of
+American women these duties are especially absorbing, owing to the
+difficulty of procuring paid subordinates, well qualified for the tasks
+they undertake. The task of positive labor, and the task of close
+supervision, are both particularly burdensome to American wives and
+mothers. Thus far, or at least until very recently, those duties of wife
+and mother have been generally performed conscientiously. The
+heart of every worthy American woman is in her home. That home,
+with its manifold interests, is especially under her government. The
+good order, the convenience, the comfort, the pleasantness, the
+whole economy of the house, in short, depend in a very great
+measure on her. The food of the family is prepared by her, either
+directly or by close supervision. The clothing of the family passes
+through her hands or under her eye. The health of the family is
+included within the same tender, watchful, loving oversight. The
+education of the children is chiefly directed by her--in many families
+almost exclusively so. Whether for evil or for good, by careless
+neglect or by patient, thoughtful, prayerful guidance, she marks out
+their future course. This is even too much the case. American fathers
+love their children fondly; no fathers more affectionate than they
+are; they pet their children; they toil ceaselessly for them; but their
+education they leave almost entirely to the mother. It may be said,
+with perfect truth, that in the great majority of American families the
+educational influences come chiefly from the mother; they are tacitly
+made over to her as a matter of course. The father has too often
+very little to do with them. His work lies abroad, in the world of
+business or politics, where all his time and attention are fully
+absorbed. In this way the American mother rules the very heart of
+her family. If at all worthy she has great influence with her husband;
+she has great influence over her daughters; and as regards her sons,
+there are too many cases in which hers is the only influence for good
+to which they yield. Is there so little of true elevation and dignity in
+this position that American women should be in such hot haste to
+abandon it for a position as yet wholly untried, entirely theoretical
+and visionary?
+
+It will be said that all women are not married, that all wives are not
+mothers, that there are childless widows and many single women in
+the country. Quite true, but in a rapid sketch one looks at the chief
+features only; and home life, with its varied duties, is, of course, the
+principal point in every Christian country. The picture is essentially
+correct, without touching on lesser details. We pause here to
+observe also that almost every single woman has a home
+somewhere. She makes a home for herself, or she is ingrafted on the
+home of others, and wherever she may be--even in that wretched
+kind of existence, boarding-house life--she may, if she choose, carry
+something of the home spirit with her. In fact, every true woman
+instinctively does so, whatever be the roof that covers her head. She
+thinks for others, she plans for others, she serves others, she loves
+and cherishes others, she unconsciously throws something of the
+web of home feeling and home action over those near her, and over
+the dwelling she inhabits. She carries the spirit of home and its
+duties into the niche allotted to her--a niche with which she is
+generally far more contented than the world at large believes--a
+niche which is never so narrow but that it provides abundant material
+for varied work--often very pleasant work too. Let it be understood,
+once for all, that the champions of widows and single women are
+very much given to talking and writing absurdly on this point. Their
+premises are often wholly false. They often fancy discontent and
+disappointment and inaction where those elements have no
+existence. Certainly it is not in the least worth while to risk a
+tremendous social revolution in behalf of this minority of the sex.
+Every widow and single woman can, if she choose, already find
+abundance of the most noble occupation for heart, mind, body, and
+soul. Carry the vote into her niche, she certainly will be none the
+happier or more truly respectable for that bit of paper. It is also an
+error to suppose that among the claimants for suffrage single women
+are the most numerous or the most clamorous. The great majority of
+the leaders in this movement appear to be married women.
+
+A word more on the subject of home life, as one in which the
+interests of the whole sex are most closely involved. It is clear that
+those interests are manifold, highly important to the welfare of the
+race, unceasing in their recurrence, urgent and imperative in their
+nature, requiring for their successful development such devotion of
+time, labor, strength, thought, feeling, that they must necessarily
+leave but little leisure to the person who faithfully discharges them.
+The comfort, health, peace, temper, recreation, general welfare,
+intellectual, moral, and religious training of a family make up,
+indeed, a charge of the very highest dignity, and one which must tax
+to the utmost every faculty of the individual to whom it is intrusted.
+The commander of a regiment at the head of his men, the member of
+Congress in his seat, the judge on his bench, scarcely holds a
+position so important, so truly honorable, as that of the intelligent,
+devoted, faithful American wife and mother, wisely governing her
+household. And what are the interests of the merchant, the
+manufacturer, the banker, the broker, the speculator, the selfish
+politician, when compared with those confided to the Christian wife
+and mother? They are too often simply contemptible--a wretched,
+feverish, maddening struggle to pile up lucre, which is any thing but
+clean. Where is the superior merit of such a life, that we should
+hanker after it, when placed beside that of the loving, unselfish,
+Christian wife and mother--the wife, standing at her husband's side,
+to cheer, to aid, to strengthen, to console, to counsel, amidst the
+trials of life; the mother, patiently, painfully, and prayerfully
+cultivating every higher faculty of her children for worthy action
+through time and eternity? Which of these positions has the most of
+true elevation connected with it?
+
+And then, again, let as look at the present position of American
+women in society. In its best aspects social life may be said to be
+the natural outgrowth of the Christian home. It is something far
+better than the world, than Vanity Fair, than the Court of Mammon,
+where all selfish passions meet and parade in deceptive
+masquerade. It is the selfish element in human nature which
+pervades what we call the world; self-indulgence, enjoyment, the
+lust of the flesh, the lust of the eye, the pride of life, receive, in that
+arena, their full development. Society, on the contrary, in its highest
+meaning, becomes the practical development of the second great
+commandment, loving and serving our neighbor. In every Christian
+country there are many individuals, especially among women, to
+whom social life practically bears that meaning. Public worship itself
+is a social act, the highest of all, blending in one the spirit of the
+two great commandments--the love of God and the love of man. And
+whatever of social action or social enjoyment is not inconsistent with
+those two great commandments becomes the Christian's heritage,
+makes a part, more or less important, of his education, enters into
+the great stream of the better civilization. And it is here that we
+reach what may be called the more public duties of woman. From all
+duties entirely public she is now, or she may be if she choose,
+relieved by man. These more public duties of hers are still but the
+outgrowth of her home life, and more or less closely interwoven with
+it. They are very important, never to be neglected with impunity. The
+really unsocial woman is in great danger of becoming also un-
+christian. Every friend crossing the threshold brings social life into
+the home. The genial smile, the kindly greeting, the cheering word,
+all these and a thousand other gracious impulses, are, of course, but
+the first instinctive movements of the social feeling. And from these
+we move onward over a vast field of action, to the very farthest
+point reached by the higher charities of Christianity. There can be no
+doubt that the charm, the grace, and the happy cheerfulness of
+society are chiefly due to women; and it is also true that the whole
+unwritten common-law of society is, in a great measure, under their
+control. The world is constantly encroaching here, enervating and
+corrupting social life. To oppose wisely, skillfully, and effectually
+these treacherous encroachments, these alluring temptations, is one
+of the most difficult tasks possible. To contribute her full share
+toward purifying and brightening the social atmosphere about her, in
+accordance with the spirit of true Christian civilization, such is one
+great and essential part of woman's work in life. It is a work more
+especially her own. Man, without his helpmeet, can do but little here.
+His faculties are absorbed by other tasks, not more important, but
+more engrossing and essentially different. The finer tact, the more
+graceful manner, the quicker wit, the more tender conscience, are all
+needed here. Every woman in the country has her own share of this
+work to do. Each individual woman is responsible for the right use of
+all her own social influences, whether for good or for evil.
+
+To keep up the standard of female purity becomes emphatically one
+of the most stringent duties of every Christian woman. For her own
+sake, for the sake of all she loves, for the sake of her country, for
+the service of Christ and His Church, she is bound to uphold this
+standard at a high point--a point entirely above suspicion. This task
+is of importance incalculable. But, owing to the frivolity of some
+women, and the very loose ideas of many men, it is no easy task.
+Undoubtedly, the very great majority of women are born modest at
+heart. Their nature is by many degrees less coarse than that of man.
+And their conscience is more tender. But there is one temptation to
+which they too often yield. With them the great dangers are vanity
+and the thirst for admiration, which often become a sort of diseased
+excitement--what drinking or gambling is to men. Here is the weak
+point. Yielding chiefly to this temptation, scores of women are falling
+every day. Vanity leads them to wear the extravagant, the flashy,
+the immodest, the unhealthy dress, to dance the immodest dance, to
+adopt the alluring manner, to carry flirting to extremes. Vanity leads
+them, in short, to forget true self-respect, to enjoy the very doubtful
+compliment of a miserably cheap admiration. They become impatient
+of the least appearance of neglect or indifference, they become
+eager in pursuit of attention, while men always attribute that pursuit
+to motives of the coarsest kind. It is generally vanity alone which
+leads a married woman to receive the first disgraceful flattery of
+dissolute men. Probably nine out of ten of those American women
+who have trifled with honor and reputation, whose names are spoken
+with the sneer of contempt, have been led on, step by step, in the
+path of sin by vanity as the chief motive. Where one woman falls
+from low and coarse passions, a hundred fall from sheer levity and
+the love of admiration.
+
+To counteract this fatal influence young women must be taught to
+respect themselves, to be on their guard against vanity and its
+enticements, to cherish personal modesty in every way. The married
+woman who is quietly working by example or by precept among the
+young girls nearest to her, seeking to cherish and foster among them
+this vital principle of pure personal modesty in dress, in language, in
+reading, in tone of voice, in countenance, in manner--the natural
+outward expression of true modesty of heart--is doing far more for
+her country than if she were to mount the rostrum to-morrow and
+make a political speech eloquent as any of Webster's.
+
+Sensible women may always have a good measure of political
+influence of the right sort, if they choose. And it is in one sense a
+duty on their part to claim this influence, and to exert it, but always
+in the true womanly way. The influence of good sense, of a sound
+judgment, of good feeling may always he theirs. Let us see that we
+preserve this influence, and that we use it wisely. But let us cherish
+our happy immunities as women by keeping aloof from all public
+personal action in the political field. There is much higher work for us
+to do. Our time, our thoughts, our efforts may be given to labors far
+more important than any mere temporary electing, or law-making,
+passed today, annulled to-morrow, in obedience to the fickle spirit of
+party politics.
+
+THAT WORK IS TO PROMOTE BY ALL WORTHY MEANS THE MORAL
+CIVILIZATION OF THE COUNTRY.
+
+Toward this work legislation, the mere enacting of laws, can do but
+little. We have all heard of the shrewd mind who considered the
+songs of a people as more important than their laws. The moral
+condition of a nation is subject to many different influences--of
+these the statute book is but one, and that not the most important.
+No mere skeleton of political constitution can, of itself, produce
+moral health and strength. It is the living heart within which does
+the work. And over that heart women have very great influence. The
+home is the cradle of the nation. A sound home education is the
+most important of all moral influences. In the very powerful
+influences which affection gives them over the home, by teaching
+childhood, by guiding youth, over the men of their family, women
+have noble means for working good, not only to their own
+households, not only to the social circle about them, but to the
+nation at large. All these influences they can bring into action far
+more effectually by adhering closely to that position which is not
+only natural to them, but also plainly allotted to them by the
+revealed Word of God. In no position of their own devising can they
+do that work half so well.
+
+Political and social corruption are clearly the great evils to be
+dreaded for our country. We have already gone far enough in the
+path of universal manhood suffrage to feel convinced that no mere
+enlargement of the suffrage has power to save us from those evils.
+During half a century we have been moving nearer and nearer to a
+suffrage all but universal, and we have, during the same period,
+been growing more corrupt. The undisguised frauds at elections, the
+open accusations of bribery in legislative assemblies, the
+accusations of corruption connected with still higher offices--of these
+we read daily in the public prints. And these accusations are not
+disproved. They are generally believed. It is clear, therefore, that
+something more effectual than universal manhood suffrage is needed
+to stem the torrent. And it is simply ridiculous to suppose that
+womanhood suffrage can effect the same task. Who can believe that
+where men, in their own natural field, have partially failed to
+preserve a healthful political atmosphere, an honest political
+practice, that women, so much less experienced, physically so much
+more feeble, so excitable, so liable to be misled by fancy, by feeling,
+are likely, in a position foreign to their nature, not only to stand
+upright themselves, but, like Atlas of old, to bear the weight of the
+whole political world on their shoulders--like Hercules, to cleanse the
+Augean stables of the political coursers--to do, in short, all that man
+has failed to do? No; it is, alas! only too clear that something more
+than the ballot-box, whether in male or female hands, is needed
+here. And it is the same in social life. The public prints, under a free
+press, must always hold up a tolerably faithful mirror to the society
+about them. The picture it displays is no better in social life than in
+political life. We say the mirror is tolerably faithful, since there are
+heights of virtue and depths of sin alike unreflected by the daily
+press. The very purest and the very foulest elements of earthly
+existence are left out of the picture. But the general view can
+scarcely fail to be tolerably correct. Take, then, the sketch of social
+life as it appears in some half dozen of the most popular prints from
+week to week. You will be sure to find the better features grievously
+blended with others fearfully distorted by evil. There are blots black
+as pitch in that picture. There are forms, more fiend-like than human,
+photographed on those sheets of paper. Crimes of worse than brutal
+violence, savage cruelty, crimes of treachery and cowardly cunning
+and conspiracy, breach of trust, tyrannical extortion, groveling
+intemperance, sensuality gross and shameless--the heart sickens at
+the record of a week's crime! It is a record from which the Christian
+woman often turns aside appalled. Human nature can read no
+lessons of humility more powerful than those contained in the
+newspapers of the day. They preach what may be called home truths
+with most tremendous force. From this record of daily crime it is only
+too clear that universal suffrage has had no power to purify the
+society in which we live. If no worse, we can not claim to be better
+than other nations, under a different political rule.
+
+This admission becomes the more painful when we reflect that in
+America this full freedom of fundamental institutions, this relief from
+all needless shackles, is combined with a well-developed system of
+intellectual education. We are an absolutely free nation. We are, on
+the whole, and to a certain point, intellectually, an educated nation.
+Yet vice and crime exist among us to an extent that is utterly
+disgraceful. It is evident, therefore, that universal manhood suffrage,
+even when combined with general education, is still insufficient for
+the task of purifying either social or political life. The theoretical
+infidel philosopher may wonder at this fact. Not so the Christian.
+Great intellectual activity, and the abuse of that power for evil
+purposes, are a spectacle only too common in this world. Look at the
+present condition of the most civilized nations. Of all generations
+that have lived on earth, our own is assuredly the most enlightened,
+in an intellectual sense; mental culture has never been so generally
+diffused as it is to-day, nor has it ever achieved so many conquests
+as within the last half century; and yet mark how comparatively little
+has this wonderful intellectual progress accomplished in the noble
+work of improving the moral condition of the most enlightened
+countries. To the mind humbled by Christian doctrine, living in the
+light of a holy faith, these facts, though unspeakably painful, can not
+cause surprise. We are prepared for them. We have already learned
+that no mere legislative enactment and no mere intellectual training
+can suffice to purify the human heart thoroughly. An element much
+more powerful than mental culture is needed for that great work. For
+this work light from on high is sent. A thorough MORAL EDUCATION
+is required, and the highest form of that education can be reached in
+one way only--by walking in the plain path of obedience to the will of
+the Creator, as revealed in Holy Scripture. We must turn, not to Plato
+and Aristotle, but to inspired Prophet and Apostle. We must open our
+hearts to the spirit of the Decalogue and the Sermon on the Mount.
+We must go to Sinai and to Calvary, and humbly, on bended knee,
+receive the sublime lessons to be learned there.
+
+We should never have expected moral progress as an inevitable
+consequence of free institutions and mere intellectual education, had
+it not been that, like other nations, we indulge in idolatries, and
+among our "gods many" are the suffrage and mental activity. We are
+gravely told by philosophers that, with the vote in the hands of
+woman, the moral elevation of the race is secured forever! "Great is
+Diana of the Ephesians!" The feeling is common in America that to
+doubt the omnipotence of universal suffrage in its extreme
+development is not only treason, but a sort of blasphemy. And this
+feeling is now leading many minds, unconsciously, perhaps, to shrink
+from opposing the present movement in favor of womanhood
+suffrage. They bow the knee to the common idol. They dare not
+believe it possible for the suffrage to be carried too far. For
+ourselves we have no sympathies whatever with idolatry. We
+fearlessly declare our opinion, therefore, that no political institutions
+whatever, neither despotic, nor monarchical, nor aristocratic, nor yet
+the most free, are capable, in themselves, of achieving moral
+education for a people. Neither do we believe it more possible for
+abstract intellectual culture to gain this most important of all ends.
+Institutions wisely free are a very great blessing. Let us be fervently
+thankful for them. Intellectual education is equally important and
+desirable. These are both noble and admirable means to work with,
+provided we still look above and beyond them for a further
+development of the race--for fullness of MORAL CIVILIZATION. In
+fact, if we wish for a vigorous, healthful, lasting development of
+republican institutions, we must necessarily unite with these not
+only intellectual teaching, but also a sound MORAL EDUCATION. This
+is a fact to which men, in the whirl of their political or commercial
+struggles, too often willfully shut their eyes. They are quite ready to
+acknowledge the truth of the assertion in a general way, but they
+choose to forget its vast importance in political or commercial
+practice. They recklessly lower the moral standard themselves,
+whenever that standard is at a height inconvenient for the attaining
+of some particular object toward which they are aiming. They are
+lacking in faith. Unlike women, who carry faith with them in private
+life, men act as if faith were not needed in everyday public life. At
+least the great majority of men, nominal Christians, fail to carry
+Christian principle with them into common business or politics. Faith,
+in the heart of women, is connected with love; consequently it is
+less easily stifled. They more frequently carry this principle with
+them in daily practice--not to the extent that they should do, but far
+more so than most men do. And here, Christian women, is your great
+advantage. It is the Lord's work to which we would urge you. The
+work of true faith, however lowly, is sure of a blessing. With faith
+unfeigned in your hearts, giving purity to your lives, you have it in
+your power to render most effectual service to the nation in your own
+natural sphere, far beyond what you could possibly accomplish by the
+path of common politics. You have never, as yet, done full justice to
+the advantages of your own actual position in this respect. You have
+overlooked the great work immediately before you. We have no
+magic talisman to offer you in carrying out that work. We shall not
+flatter you with the promise of unlimited success; we shall not
+attempt to gratify any personal ambition of public honors. We have
+no novel theories or brilliant illusions with which to dazzle your
+imagination.
+
+FIDELITY TO PLAIN MORAL DUTIES--THIS IS THE ONE GREAT
+PRINCIPLE TO WHICH WE WOULD MOST EARNESTLY CALL YOUR ATTENTION.
+There is absolutely no principle so sorely needed in the civilized
+world to-day as this. We live in an age of false and inflated ambitions.
+Simple moral truths fare badly in our time. Imposing theories,
+brilliant novelties, subtle sophistries, exaggerated development,
+arrogant pretensions--these too often crowd simple moral truths out
+of sight, out of mind. And yet, without that class of duties in
+healthful action, corruption more or less general is inevitable.
+
+Truth of word, honesty of action, integrity of character, temperance,
+chastity, moderation, sincerity, subordination to just authority,
+conjugal fidelity, filial love and honor--these duties, and others
+closely connected with them, bear old and homely names. But,
+Christian women, you can not ask for a task more noble, more truly
+elevating, for yourselves and your country, than to uphold these
+plain moral principles, first by your own personal example, and then
+by all pure influences in your homes and in the society to which you
+belong. In no other mode can you so well forward the great work of
+Christian civilization as by devoting yourselves to the daily personal
+practice, and to the social cultivation, by example and influence, of
+these plain moral duties. Your present domestic position is
+especially favorable to this task. You have more time for thought on
+these subjects; you have more frequent opportunities for influence
+over the young nearest to you; you have more leisure for prayer, for
+invoking a blessing on your efforts, however humble they may he. It
+is not enough to set a decent example yourselves. You must go to
+the very root of the matter. You must carry about with you hearts
+and minds very deeply impressed with the incalculable importance of
+a sound morality; you must be clearly convinced of the misery, the
+shame, the perils of all immorality.
+
+In this nineteenth century the civilization of a country must
+necessarily prove either heathen or Christian in its spirit. There is no
+neutral ground lying between these boundaries. Faith or infidelity,
+such is the choice we must all make, whether as individuals or as
+nations. Thanks be to God we are not only in name, but also partially
+in character, a Christian nation. Faith is not entirely wanting. We all
+in a measure feel its good effects. Even the avowed infidel living in
+our midst is far more under its influences, though indirectly so, than
+he is aware of. And where there is life, there we have hope of
+growth, of higher development. To cherish that growth, to further
+that higher development by all gracious and loving and generous
+influences, is a work for which women are especially adapted. They
+work from within outwardly. Men work chiefly by mental and physical
+pressure from without. Men work by external authority; women work
+by influences. Men seek to control the head. Women always aim at
+touching the heart. And we have the highest of all authority for
+believing that this last is the most efficient mode of working.
+
+"Out of the heart are the issues of life." This, therefore, Christian
+women, is your especial  task. Use all the happy womanly influences
+in your power to forward the moral education, the Christian
+civilization, of the country to which you belong. Be watchful, with the
+unfeigned humility of the Christian, over your own personal course,
+and the example connected with it. Aim at keeping up, on all
+occasions, a high practical standard of sound morality at all points.
+Cultivate every germ of true moral principle in your own homes, and
+in the social circle about you. Let the holy light of truth, honor,
+fidelity, honesty, purity, piety, and love brighten the atmosphere of
+your homes.
+
+What heathen civilization means we know from many sources, more
+especially from the records of Rome under the empire, in the days of
+St. Paul, when it had reached its highest development.
+
+What Christian civilization means we learn from the Apostle: "Let
+him that nameth the name of Christ depart from iniquity."
+"Whatsoever things are true, whatsoever things are honest,
+whatsoever things are just, whatsoever things are pure, whatsoever
+things are lovely, whatsoever things are of good report--think on
+these things."
+
+
+
+
+
+End of Project Gutenberg Etext Female Suffrage, by Susan Fenimore Cooper
+

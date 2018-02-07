@@ -1,0 +1,2528 @@
+Project Gutenberg's Original Narratives of Early American History
+by various authors
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Original Narratives of Early American History
+
+by various authors
+
+April, 2000  [Etext #2128]
+
+
+Project Gutenberg's Original Narratives of Early American History
+*******This file should be named mohwk10.txt or mohwk10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, mohwk11.txt
+VERSIONS based on separate sources get new LETTER, mohwk10a.txt
+
+
+This Project Gutenberg Etext was prepared by Tony Adam
+anthony-adam@tamu.edu
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+
+
+
+
+This Project Gutenberg Etext was prepared by Tony Adam
+anthony-adam@tamu.edu
+
+
+
+
+
+Reference material and sources.
+
+Emanuel Van Meteren, On Hudson's Voyage, 1610.   In J. Franklin 
+Jameson, ed., Narratives of New Netherland, 1609-1664 (Original 
+Narratives of Early American History).  NY: Charles Scribner's 
+Sons, 1909.
+
+
+We have observed in our last book that the Directors of the East 
+India Company in Holland had sent out in March last, on purpose 
+to seek a passage to China by northeast or northwest, a skilful 
+English pilot, named Herry Hutson, in a Vlie boat, having a crew 
+of eighteen or twenty men, partly English, partly Dutch, well 
+provided.
+
+This Henry Hutson left the Texel on the 6th of April, 1609, 
+doubled the Cape of Norway the 5th of May, and directed his 
+course along the northern coasts towards Nova Zembia; but he 
+there found the sea as full of ice as he had found it in the preceding 
+year, so that they lost the hope of effecting anything during the 
+season.  This circumstance, and the cold, which some of his 
+men, who had been in the East Indies, could not bear, caused 
+quarrels among the crew, they being partly English, partly Dutch, 
+upon which Captain Hutson laid before them two propositions.  
+The first of these was to go to the coast of America, to the latitude 
+of 40 degrees, moved thereto mostly by letters and maps which a 
+certain Captain Smith had sent him from Virginia, and by which 
+he indicated to him a sea leading into the western ocean, by the 
+north of the southern English colony.  Had this information been 
+true (experience goes as yet to the contrary), it would have been 
+of great advantage, as indicating a short way to India.  The other
+proposition was to direct their search through Davis's Straits.  
+This meeting with general approval, they sailed thitherward 
+on the 14th of May, and arrived on the last day of May with 
+a good wind at the Faroe Islands, where they stopped but 
+twenty-four hours, to supply themselves with fresh water.  
+After leaving these islands, they sailed on, till on the 18th 
+of July they reached the coast of Nova Francia, under 44 
+degrees, where they were obliged to run in, in order to get 
+a new foremast, having lost theirs.  They found one, and set 
+it up.  They found this a good place for cod-fishing, as also 
+for traffic in good skins and furs, which were to be got there 
+at a very low price. But the crew behaved badly towards the 
+people of the country, taking their property by force, out of 
+which there arose quarrels among themselves.  The English, 
+fearing that between the two they would be outnumbered and 
+worsted, were therefore afraid to pursue the matter further.  
+So they left that place on the 26th of July, and kept out at sea 
+till the 3d of August, when they came near the coast, in 42 
+degrees of latitude.  Thence they sailed on, till on the 12th of 
+August they again reached the shore, under 37 degrees 45'.  
+Thence they sailed along the shore until they reached 40 degrees 
+45', where they found a good entrance, between two headlands, 
+and entered on the 12th of September into as fine a river as can 
+be found, wide and deep, with good anchoring ground on both 
+sides.
+
+Their ship finally sailed up the river as far as 42 degrees 40'.  
+But their boat went higher up.  In the lower part of the river 
+they found strong and warlike people; but in the upper part 
+they found friendly and polite people, who had an abundance 
+of provisions, skins, and furs, of martens and foxes, and many 
+other commodities, as birds and fruit, even white and red grapes, 
+and they traded amicably with the people.  And of all the above-
+mentioned commodities they brought some home.  When they 
+had thus been about fifty leagues up the river, they returned on 
+the 4th of October, and went again to sea.  More could have been 
+done if there had been good-will among the crew and if the want 
+of some necessary provisions had not prevented it.   While at sea, 
+they held counsel together, but were of different opinions.  The 
+mate, a Dutchman, advised to winter in Newfoundland, and to 
+search the northwestern passage of Davis throughout.  This was 
+opposed by Skipper Hutson.  He was afraid of his mutinous crew, 
+who had sometimes savagely threatened him; and he feared that 
+during the cold season they would entirely consume their provi-
+sions, and would then be obliged to return, [with] many of the 
+crew ill and sickly.  Nobody, however, spoke of returning home 
+to Holland, which circumstance made the captain still more 
+suspicious.  He proposed therefore to sail to Ireland, and winter 
+there, which they all agreed to.  At last they arrived at Dartmouth, 
+in England, the 7th of November, whence they informed their 
+employers, the Directors in Holland, of their voyage.  They 
+proposed to them to go out again for a search in the northwest, 
+and that, besides the pay, and what they already had in the ship, 
+fifteen hundred florins should be laid out for an additional 
+supply of provisions.  He [Hudson] also wanted six or seven 
+of his crew exchanged for others, and their number raised to 
+twenty.  He would then sail from Dartmouth about the 1st of 
+March, so as to be in the northwest towards the end of that month, 
+and there to spend the whole of April and the first half of May in 
+killing whales and other animals in the neighborhood of Panar 
+Island, then to sail to the northwest, and there to pass the time 
+till the middle of September, and then to return to Holland around 
+the northeastern coast of Scotland.  Thus this voyage ended.
+
+
+A long time elapsed, through contrary winds, before the Company 
+could be informed of the arrival of the ship in England.  Then they 
+ordered the ship and crew to return as soon as possible.  But, when 
+this was about to be done, Skipper Herry Hutson and the other 
+Englishmen of the ship were commanded by the government there 
+not to leave [England], but to serve their own country.  Many persons 
+thought it strange that captains should thus be prevented from laying 
+their accounts and reports before their employers, having been sent out 
+for the benefit of navigation in general.  This took place in January, 
+[1610]; and it was thought probably that the English themselves 
+would send ships to Virginia, to explore further the aforesaid river.
+ 
+
+
+END OF PROJECT GUTENBERG ETEXT "ON HUDSON'S 
+VOYAGE."
+
+
+Isaack de Rasieres, Letter of Isaack de Rasieres to Samuel 
+Blommaert, 1628.  In J. Franklin Jameson, ed., Narratives of 
+New Netherland, 1609-1664 (Original Narratives of Early 
+American History).  NY: Charles Scribner's Sons, 1909.
+
+
+
+Mr. Blommaert:
+
+As I feel myself much bound to your service, and in return know 
+not how otherwise to recompense you than by this slight memoir, 
+(wherein I have in part comprised as much as was in my power 
+concerning the situation of New Netherland and its neighbors, and 
+should in many things have been able to treat of or write the same 
+more in detail, and better than I have now done, but that my things 
+and notes, which would have been of service to me herein, have 
+been taken away from me), I will beg you to be pleased to receive 
+this, on account of my bounden service, etc.
+
+On the 27th of July, Anno 1626, by the help of God, I arrived 
+with the ship The Arms of Amsterdam, before the bay of the great 
+Mauritse River, sailing into it about a musket shot from Godyn's 
+Point, into Coenraet's Bay; (because there the greatest depth is, 
+since from the east point there stretches out a sand bank on which 
+there is only from 9 to 14 feet of water), then sailed on, northeast 
+and north-northeast, to about half way from the low sand bank 
+called Godyn's Point to the Hamels-Hoofden, the mouth of the 
+river, where we found at half ebb 16, 17, 18 feet water, and which 
+is a sandy reef a musket shot broad, stretching for the most part 
+northeast and southwest, quite across, and, according to my opinion, 
+having been formed there by the stream, inasmuch as the flood runs 
+into the bay from the sea, east-southeast; the depth at Godyn's Point 
+is caused by the tide flowing out along there with such rapidity.
+
+Between the Hamels-Hoofden the width is about a cannon's shot 
+of 2,000 [yards]; the depth 10, 11, 12 fathoms.  They are tolerably 
+high points, and well wooded.  The west point is an island, inhabited 
+by from 80 to 90 savages, who support themselves by planting 
+maize.  The east point is a very large island, full 24-leagues long, 
+stretching east by south and east-southeast along the sea-coast, from 
+the river to the east end of the Fisher's Hook.  In some places it is 
+from three to four leagues broad, and it has several creeks and bays, 
+where many savages dwell, who support themselves by planting 
+maize and making sewan, and who are called Souwenos and 
+Sinnecox.  It is also full of oaks, elms, walnut and fir trees, also 
+wild cedar and chestnut trees.  The tribes are held in subjection by, 
+and are tributary to, the Pyquans, hereafter named.  The land is in 
+many places good, and fit for ploughing and sowing.  It has many 
+fine valleys, where there is good grass.  Their form of government 
+is like that of their neighbors, which is described hereafter.
+
+The Hamels-Hoofden being passed, there is about a league width 
+in the river, and also on the west side there is an inlet, where another 
+river runs up about twenty leagues, to the north-northeast, emptying 
+into the Mauritse River in the highlands, thus making the northwest 
+land opposite to the Manhatas an island eighteen leagues long.  It is 
+inhabited by the old Manhatans [Manhatesen]; they are about 200 to 
+300 strong, women and men, under different chiefs, whom they call 
+Sackimas.  This island is more mountainous than the other land on 
+the southeast side of the river, which opposite to the Manhatas is 
+about a league and half in breadth.  At the side of the before-mentioned 
+little river, which we call "Achter Col," there is a great deal of waste 
+reedy land; the rest is full of trees, and in some places there is good 
+soil, where the savages plant their maize, upon which they live, as 
+well as by hunting.  The other side of the same small river, according 
+to conjecture, is about 20 to 23 leagues broad to the South River, in 
+the neighborhood of the Sancicans, in so far as I have been able to 
+make it out from the mouths of the savages; but as they live in a 
+state of constant enmity with those tribes, the paths across are but 
+little used, wherefore I have not been able to learn the exact distance; 
+so that when we wish to send letters overland, they (the natives) take 
+their way across the bay, and have the letters carried forward by 
+others, unless one amongst them may happen to be on friendly terms, 
+and who might venture to go there.
+
+The island of the Manhatas extends two leagues in length along the 
+Mauritse River, from the point where the Fort "New Amsterdam" 
+is building.  It is about seven leagues in circumference, full of trees, 
+and in the middle rocky to the extent of about two leagues in circuit.  
+The north side has good land in two places, where two farmers, each 
+with four horses, would have enough to do without much clearing 
+at first.  The grass is good in the forest and valleys, but when made 
+into hay is not so nutritious for the cattle as here, in consequence of 
+its wild state, but it yearly improves by cultivation.  On the east side 
+there rises a large level field, of from 70 to 80 morgens of land, 
+through which runs a very fine fresh stream; so that that land can be 
+ploughed without much clearing.  It appears to be good.  The six 
+farms, four of which lie along the River Hellgate, stretching to the 
+south side of the island, have at least 60 morgens of land ready to be 
+sown with winter seed, which at the most will have been ploughed 
+eight times.  But as the greater part must have some manure, inasmuch 
+as it is so exhausted by the wild herbage, I am afraid that all will not 
+be sown; and the more so, as the managers of the farms are hired men.  
+The two hindermost farms, Nos. 1 and 2, are the best; the other farms 
+have also good land, but not so much, and more sandy; so that they are 
+best suited for rye and buckwheat.
+
+The small fort, New Amsterdam, commenced to be built, is situated 
+on a point opposite to Noten Island; [the channel between] is a gun-
+shot wide, and is full six or seven fathoms deep in the middle.  This 
+point might, with little trouble, be made a small island, by cutting a 
+canal through Blommaert's valley, so as to afford a haven winter and 
+summer, for sloops and ships; and the whole of this little island ought, 
+from its nature, to be made a superb fort, to be approached by land 
+only on one side (since it is a triangle), thus protecting them both.  
+The river marks out, naturally, three angles; the most northern faces 
+and commands, within the range of a cannon shot, the great Mauritse 
+River and the land; the southernmost commands, on the water level, 
+the channel between Noten Island and the fort, together with the 
+Hellegat; the third point, opposite to Blommaert's valley, commands 
+the lowland; the middle part, which ought to be left as a marketplace, 
+is a hillock, higher than the surrounding land, and should always serve 
+as a battery, which might command the three points, if the streets 
+should be arranged accordingly. 
+
+Up the river the east side is high, full of trees, and in some places 
+there is a little good land, where formerly many people have dwelt, 
+but who for the most part have died or have been driven away by 
+the Wappenos.
+
+These tribes of savages all have a government.  The men in general 
+are rather tall, well proportioned in their limbs, and of an orange color, 
+like the Brazilians; very inveterate against those whom they hate; cruel 
+by nature, and so inclined to freedom that they cannot by any means be 
+brought to work; they support themselves by hunting, and when the 
+spring comes, by fishing.  In April, May, and June, they follow the 
+course of these [the fish], which they catch with a drag-net they them-
+selves knit very neatly, of the wild hemp, from which the women and 
+old men spin the thread.  The kinds of fish which they principally take 
+at this time are shad, but smaller than those in this country ordinarily 
+are, though quite as fat, and very bony; the largest fish is a sort of white 
+salmon, which is of very good flavor, and quite as large; it has white 
+scales; the heads are so full of fat that in some there are two or three 
+spoonfuls, so that there is good eating for one who is fond of picking 
+heads.  It seems that this fish makes them lascivious, for it is often 
+observed that those who have caught any when they have gone fishing, 
+have given them, on their return, to the women, who look for them 
+anxiously.  Our people also confirm this....
+
+As an employment in winter they make sewan, which is an oblong 
+bead that they make from cockle-shells, which they find on the sea-
+shore, and they consider it as valuable as we do money here, since 
+one can buy with it everything they have; they also make bands of it,
+which the women wear on the forehead under the hair, and the men 
+around the body; and they are as particular about the stringing and 
+sorting as we can be here about pearls.  They are very fond of a game 
+they call Seneca, played with some round rushes, similar to the Spanish
+feather-grass, which they understand how to shuffle and deal as though
+they were playing with cards; and they win from each other all that 
+they possess, even to the lappet with which they cover their private 
+parts, and so they separate from each other quite naked.  They are 
+very much addicted to promiscuous intercourse.  Their clothing is 
+[so simple as to leave the body] almost naked.  in the winter time they 
+usually wear a dressed deer skin; some a covering made of turkey 
+feathers which they understand how to knit together very oddly, with
+small strings.  They also use a good deal of duffel cloth, which they 
+buy from us, and which serves for their blanket by night, and their 
+dress by day.
+
+The women are fine looking, of middle stature, well proportioned, 
+and with finely cut features; with long and black hair, and black eyes 
+set off with fine eyebrows; they are of the same color as the men.  
+They smear their bodies and hair with grease, which makes them 
+smell very rankly; they are very much given to promiscuous 
+intercourse.
+
+They have a marriage custom amongst them, namely:  when there is 
+one who resolves to take a particular person for his wife, he collects 
+a fathom or two of sewan, and comes to the nearest friends of the 
+person whom he desires, to whom he declares his object in her 
+presence, and if they are satisfied with him, he agrees with them 
+how much sewan he shall give her for a bridal present; that being 
+done, he then gives her all the Dutch beads he has, which they call 
+Machampe, and also all sorts of trinkets.  If she be a young virgin, 
+he must wait six weeks more before he can sleep with her, during 
+which time she bewails or laments over her virginity, which they 
+call Collatismarrenitten; all this time she sits with a blanket over 
+her head, without wishing to look at any one, or any one being 
+permitted to look at her.  This period being elapsed, her bridegroom 
+comes to her; he in the mean time has been supporting himself by 
+hunting, and what he has taken he brings there with him; they then 
+eat together with the friends, and sing and dance together, which 
+they call Kintikaen.  That being done, the wife must provide the food 
+for herself and her husband, as far as breadstuffs are concerned, and 
+[should they fall short] she must buy what is wanting with her sewan.
+
+For this reason they are obliged to watch the season for sowing.  At 
+the end of March they begin to break up the earth with mattocks, 
+which they buy from us for the skins of beavers or otters, or for 
+sewan.  They make heaps like molehills, each about two and a 
+half feet from the others, which they sow or plant in April with 
+maize, in each heap five or six grains; in the middle of May, when
+the maize is the height of a finger or more, they plant in each heap
+three or four Turkish beans, which then grow up with and against
+the maize, which serves for props, for the maize grows on stalks
+similar to the sugar-cane.  When they wish to make use of the 
+grain for bread or porridge, which they call 
+Sappaen, they first boil it and then beat it flat upon a stone; 
+then they put it into a wooden mortar, which they know how 
+to hollow out by fire, and then they have a stone pestle, which 
+they know how to make themselves, with which they pound it 
+small, and sift it through a small basket, which they understand 
+how to weave of the rushes before mentioned.  The finest meal 
+they mix with lukewarm water, and knead it into dough, then 
+they make round flat little cakes of it, of thickness of an inch 
+or a little more, which they bury in hot ashes, and so bake into 
+bread; and when these are baked they have some clean fresh 
+water by them in which they wash them while hot, one after 
+another, and it is good bread, but heavy.  The coarsest meal 
+they boil into a porridge, as is before mentioned, and it is good 
+eating when there is butter over it, but a food which is very soon 
+digested.  The grain being dried, they put it into baskets woven 
+of rushes or wild hemp, and bury it in the earth, where they let it 
+lie, and go with their husbands and children in October to hunt 
+deer, leaving at home with their maize the old people who cannot 
+follow; in December they return home, and the flesh which they 
+have not been able to eat while fresh, they smoke on the way, 
+and bring it back with them.  They come home as fat as moles.
+
+When a woman here addicts herself to fornication, and the husband 
+comes to know it, he thrashes her soundly, and if he wishes to get 
+rid of her, he summons the Sackima with her friends, before whom 
+he accuses her; and if she be found guilty the Sackima commands 
+one to cut off her hair in order that she may be held up before the 
+world as a whore, which they call poerochque; and then the husband 
+takes from her everything that she has, and drives her out of the house; 
+if there be children, they remain with her, for they are fond of them 
+beyond measure.  They reckon consanguinity to the eighth degree, 
+and revenge an injury from generation to generation unless it be atoned 
+for; and even then there is mischief enough, for they are very revengeful.
+
+And when a man is unfaithful, the wife accuses him before the Sackima, 
+which most frequently happens when the wife has a preference for 
+another man.  The husband being found guilty, the wife is permitted 
+to draw off his right shoe and left stocking (which they make of deer 
+or elk skins, which they know how to prepare very broad and soft, and
+wear in the winter time); she then tears off the lappet that covers his
+private parts, gives him a kick behind, and so drives him out of the 
+house; and then "Adam" scampers off.
+
+It would seem that they are very libidinous--in this respect very 
+unfaithful to each other; whence it results that they breed but 
+few children, so that it is a wonder when a woman has three or 
+four children, particularly by any one man whose name can be 
+certainly known.  They must not have intercourse with those of 
+their own family within the third degree, or it would be considered 
+an abominable thing.
+
+Their political government is democratic.  They have a chief 
+Sackima whom they choose by election, who generally is he 
+who is richest in sewan, though of less consideration in other 
+respects.  When any stranger comes, they bring him to the 
+Sackima.  On first meeting they do not speak--they smoke a 
+pipe of tobacco; that being done, the Sackima asks:  "Whence 
+do you come?" the stranger then states that, and further what he 
+has to say, before all who are present or choose to come.  That 
+being done, the Sackima announces his opinion to the people, 
+and if they agree thereto, they give all together a sigh--"He!"--
+and if they do not approve, they keep silence, and all come close 
+to the Sackima, and each sets forth his opinion till they agree; that 
+being done, they come all together again to the stranger, to whom 
+the Sackima then announces what they have determined, with the 
+reasons moving them thereto.
+
+All travellers who stop over night come to the Sackima, if they 
+have no acquaintances there, and are entertained by the expenditure 
+of as much sewan as is allowed for that purpose; therefore the 
+Sackimas generally have three or four wives, each of whom has 
+to furnish her own seed-corn.
+
+The Sackima has his fixed fine of sewan for fighting and causing 
+blood to flow.  When any are--[here four pages, at least, are missing 
+in the original manuscript].
+
+Coming out of the river Nassau, you sail east-and-by-north about 
+fourteen leagues, along the coast, a half miles from the shore, and 
+you then come to "Frenchman's Point" at a small river where those 
+of Patucxet have a house made of hewn oak planks, called Aptucxet, 
+where they keep two men, winter and summer, in order to maintain 
+the trade and possession.  Here also they have built a shallop, in 
+order to go and look after the trade in sewan, in Sloup's Bay and
+thereabouts, because they are afraid to pass Cape Mallabaer, and in 
+order to avoid the length of the way; which I have prevented for this 
+year by selling them fifty fathoms of sewan, because the seeking 
+after sewan by them is prejudicial to us, inasmuch as they would, 
+by so doing, discover the trade in furs; which if they were to find 
+out, it would be a great trouble for us to maintain, for they already 
+dare to threaten that if we will not leave off dealing with that people, 
+they will be obliged to use other means; if they do that now, while 
+they are yet ignorant how the case stands, what will they do when 
+they do get a notion of it?
+
+From Aptucxet the English can come in six hours, through the 
+woods, passing several little rivulets of fresh water, to New 
+Plymouth, the principal place in the district Patucxet, so called 
+in their patent from his Majesty in England.
+
+
+New Plymouth lies in a large bay to the north of Cape Cod, or 
+Mallabaer, east and west from the said [north] point of the cape, 
+which can be easily seen in clear weather.  Directly before the 
+commenced town lies a sand-bank, about twenty paces broad, 
+whereon the sea breaks violently with an easterly and east-north-
+easterly wind.  On the north side there lies a small island where 
+one must run close along, in order to come before the town; then 
+the ships run behind that bank and lie in a very good roadstead.  
+The bay is very full of fish, [chiefly] of cod, so that the governor 
+before named has told me that when the people have a desire for 
+fish they send out two or three persons in a sloop, whom they 
+remunerate for their trouble, and who bring them in three or four 
+hours' time as much fish as the whole community require for a 
+whole day--and they muster about fifty families.
+
+At the south side of the town there flows down a small river of 
+fresh water, very rapid, but shallow, which takes its rise from 
+several lakes in the land above, and there empties into the sea; 
+where in April and the beginning of May, there come so many 
+shad from the sea which want to ascend that river, that it is quite
+surprising.  This river the English have shut in with planks, and 
+in the middle with a little door, which slides up and down, and 
+at the sides with trellice work, through which the water has its 
+course, but which they can also close with slides.
+
+At the mouth they have constructed it with planks, like an eel-pot, 
+with wings, where in the middle is also a sliding door, and with 
+trellice work at the sides, so that between the two [dams] there is 
+a square pool, into which the fish aforesaid come swimming in 
+such shoals, in order to get up above, where they deposit their 
+spawn, that at one tide there are 10,000 to 12,000 fish in it, which 
+they shut off in the rear at the ebb, and close up the trellices above, 
+so that no more water comes in; then the water runs out through the 
+lower trellices, and they draw out the fish with baskets, each 
+according to the land he cultivates, and carry them to it, depositing 
+in each hill three or four fishes, and in these they plant their maize, 
+which grows as luxuriantly therein as though it were the best manure 
+in the world.  And if they do not lay this fish therein, the maize will 
+not grow, so that such is the nature of the soil.
+
+New Plymouth lies on the slope of a hill stretching east towards 
+the seacoast, with a broad street about a cannon shot of 800 feet 
+long, leading down the hill; with a [street] crossing in the middle,
+northwards to the rivulet and southwards to the land.  The houses 
+are constructed of hewn planks, with gardens also enclosed behind 
+and at the sides with hewn planks, so that their houses and court-yards 
+are arranged in very good order, with a stockade against a sudden 
+attack; and at the ends of the streets there are three wooden gates.  
+In the centre, on the cross street, stands the governor's house, before 
+which is a square stockade upon which four patereros are mounted, 
+so as to enfilade the streets.   Upon the hill they have a large square 
+house, with a flat roof, made of thick sawn plank, stayed with oak 
+beams, upon the top of which they have six cannon, which shoot 
+iron balls of four and five pounds, and command the surrounding 
+country.  The lower part they use for their church, where they preach 
+on Sundays and the usual holidays.  They assemble by beat of drum, 
+each with his musket or firelock, in front of the captain's door; they 
+have their cloaks on, and place themselves in order, three abreast, 
+and are led by a sergeant without beat of drum.  Behind comes the
+governor, in a long robe; beside him, on the right hand, comes the 
+preacher with his cloak on, and on the left hand the captain with his 
+side-arms, and cloak on, and with a small cane in his hand; and so 
+they march in good order, and each sets his arms down near him.  
+Thus they are constantly on their guard night and day.
+
+Their government is after the English form.  The governor has his 
+council, which is chosen every year by the entire community, by 
+election or prolongation of term.  In inheritances they place all the 
+children in one degree, only the eldest son has an acknowledgement 
+for his seniority of birth.  They have made stringent laws and ordin-
+ances upon the subject of fornication and adultery, which laws they 
+maintain and enforce very strictly indeed, even among the tribes 
+which live amongst them.  They speak very angrily when they hear 
+from the savages that we live so barbarously in these respects, and 
+without punishment.  Their farms are not so good as ours, because 
+they are more stony, and consequently not so suitable for the plough.  
+They apportion their land according as each has means to contribute 
+to the eighteen thousand guilders which they have promised to those 
+who had sent them out; whereby they have their freedom without 
+rendering an account to any one; only if the King should choose to 
+send a governor-general they would be obliged to acknowledge 
+him as sovereign overlord.  The maize seed which they do not 
+require for their own use is delivered over to the governor, at three
+guilders the bushel, who in his turn sends it in sloops to the north 
+for the trade in skins among the savages; they reckon one bushel 
+of maize against one pound of beaver's skins; the profits are divided
+according to what each has contributed, and they are credited for the
+amount in the account of what each has to contribute yearly towards 
+the reduction of his obligation.  Then with the remainder they 
+purchase what next they require, and which the governor takes care 
+to provide every year.  They have better sustenance than ourselves,
+because they have the fish so abundant before their doors.  There are 
+also many birds, such as geese, herons and cranes, and other small-
+legged birds, which are in great abundance there in the winter.
+
+The tribes in their neighborhood have all the same customs as already 
+above described, only they are better conducted than ours, because the 
+English give them the example of better ordinances and a better life; 
+and who also, to a certain degree, give them laws, in consequence of 
+the respect they from the very first have established amongst them.
+
+The savages [there] utilize their youth in labor better than the savages 
+round about us:  the girls in sowing maize, the young men in hunting.  
+They teach them to endure privation in the field in a singular manner, 
+to wit:
+
+When there is a youth who begins to approach manhood, he is 
+taken by his father, uncle, or nearest friend, and is conducted 
+blindfolded into a wilderness, in order that he may not know 
+the way, and is left there by night or otherwise, with a bow and
+arrows, and a hatchet and a knife.  He must support himself there 
+a whole winter with what the scanty earth furnishes at this season, 
+and by hunting.  Towards the spring they come again, and fetch 
+him out of it, take him home and feed him up again until May.  
+He must then go out again every morning with the person who 
+is ordered to take him in hand; he must go into the forest to seek 
+wild herbs and roots, which they know to be the most poisonous 
+and bitter; these they bruise in water and press the juice out of them, 
+which he must drink, and immediately have ready such herbs as will
+preserve him from death or vomiting; and if he cannot retain it, he 
+must repeat the dose until he can support it, and until his constitution
+becomes accustomed to it so that he can retain it.
+
+Then he comes home, and is brought by the men and women, all 
+singing and dancing, before the Sackima; and if he has been able to 
+stand it all well, and if he is fat and sleek, a wife is given to him.
+
+In that district there are no lions or bears, but there are the same 
+kinds of other game, such as deers, hinds, beavers, otters, foxes, 
+lynxes, seals and fish, as in our district of country.  The savages 
+say that far in the interior there are certain beasts of the size of oxen,
+having but one horn, which are very fierce.  The English have used 
+great diligence in order to see them, but cannot succeed therein, 
+although they have seen the flesh and hides of them which were 
+brought to them by the savages.  There are also very large elks here, 
+which the English have indeed seen.
+
+The lion skins which we sometimes see our savages wear are not 
+large, so that the animal itself must be small; they are of a mouse-
+gray color, short in the hair and long in the claws.
+
+The bears are some of them large and some small; but the largest 
+are not so large as the middle-sized ones which come from Green-
+land.  Their fur is long and black and their claws large.  The savages
+esteem the flesh and grease as a great dainty.
+
+Of the birds, there is a kind like starlings, which we call maize 
+thieves, because they do so much damage to the maize.  They 
+fly in large flocks, so that they flatten the corn in any place where 
+they alight, just as if cattle had lain there.  Sometimes we take them 
+by surprise and fire amongst them with hailshot, immediately that 
+we have made them rise, so that sixty, seventy, and eighty fall all 
+at once, which is very pleasant to see.
+
+There are also very large turkeys living wild; they have very long 
+legs, and can run extraordinarily fast, so that we generally take 
+savages with us when we go to hunt them; for even when one has 
+deprived them of the power of flying, they yet run so fast that we 
+cannot catch them unless their legs are hit also.
+
+In the autumn and in the spring there come a great many geese, 
+which are very good, and easy to shoot, inasmuch as they congregate
+together in such large flocks.  There are two kind of partridges; the 
+one sort are quite as small as quails and the other like the ordinary 
+kind here.  There are also hares, but few in number, and not larger 
+than a middle-sized rabbit; and they principally frequent where the
+land is rocky.
+
+This, sir, is what I have been able to communicate to you from 
+memory, respecting New Netherland and its neighborhood, in 
+discharge of my bounden duty; I beg that the same may so be 
+favorably received by you, and I beg to recommend myself for 
+such further service as you may be pleased to command me in, 
+wherever you may find me.
+
+In everything your faithful servant,
+
+ISAACK DE RASIERES.
+
+
+END OF PROJECT GUTENBERG ETEXT "LETTER OF 
+ISAACK DE RASIERES."
+
+
+
+
+
+
+Harmen Meydertsz van den Boagaert (?),  Narrative of a Journey 
+Into the Mohawk and Oneida Country, 1634-1635.  In J. Franklin 
+Jameson, ed., Narratives of New Netherland, 1609-1664 (Original 
+Narratives of Early American History).  NY: Charles Scribner's 
+Sons, 1909.
+
+
+
+Praise the Lord above all--Fort Orange, 1634.
+
+
+December 11. Journal kept of the principal events that happened 
+during the journey to the Maquas and Sinnekens Indians.  First, the 
+reasons why we went on this journey were these, that the Maquas 
+and Sinnekens very often came to our factor [commis] Marten 
+Gerritsen and me stating that there were French Indians in their land, 
+and that they had made a truce with them so that they, namely, the 
+Maquas, wished to trade for their skins, because the Maquas Indians 
+wanted to receive just as much for their skins as the French Indians 
+did.  So I proposed to Mr. Marten Gerritsen to go and see if it was 
+true, so soon to run counter to their High Mightinesses; and, besides, 
+trade was doing very badly, therefore I went as above with Jero[ni]-
+mus [de] la Croex and Willem Tomassen.  May the Lord bless my 
+voyage!  We went between nine and ten o'clock with five Macquas
+Indians, mostly north-west above eight leagues, and arrived at 
+half-past twelve in the evening at a hunter's cabin, where we slept 
+for the night, near the stream that runs into their land and is named 
+Oyoge.  The Indians here gave us venison to eat.  The land is mostly 
+full of fir trees, and the flat land is abundant.  The stream runs 
+through their land near their (Maquas) castle, but we could not ascend 
+it on account of the heavy freshet.
+
+
+December 12.  At three hours before daylight, we proceeded again, 
+and the savages that went with us would have left us there if I had 
+not noticed it; and when we thought of taking our meal we perceived 
+that their dogs had eaten our meat and cheese.  So we had then only 
+dry bread and had to travel on that; and, after going for an hour, we 
+came to the branch that runs into our river and past the Maquas 
+villages, where the ice drifted very fast.  Jeronimus crossed first, 
+with one savage in a canoe made of the bark of trees, because there 
+was only room for two; after that Willem and I went over; and it was 
+so dark that we could not see each other if we did not come close 
+together.  It was not without danger.  When all of us had crossed, we 
+went another league and a half and came to a hunter's cabin, which 
+we entered to eat some venison, and hastened farther, and after another 
+half league we saw some Indians approaching; and as soon as they 
+saw us they ran off and threw their sacks and bags away, and fled 
+down a valley behind the underwood, so that we could not see them.  
+We looked at their goods and bags, and took therefrom a small [loaf 
+of] bread.  It was baked with beans, and we ate it.  We went farther, 
+and mostly along the aforesaid kill that ran very swiftly because 
+of the freshet.  In this kill there are a good many islands, and on the 
+sides upward of 500 or 600 morgen of flat land; yes, I think even 
+more.  And after we had been marching about eleven leagues, we 
+arrived at one o'clock in the evening half a league from the first 
+castle at a little house.  We found only Indian women inside.  We 
+should have gone farther, but I could hardly move my feet because 
+of the rough road, so we slept there.  It was very cold, with northerly 
+wind.
+
+December 13.  In the morning we went together to the castle over 
+the ice that during the night had frozen on the kill, and, after going 
+half a league, we arrived in their first castle, which is built on a 
+high hill.  There stood but 36 houses, in rows like streets, so that 
+we could pass nicely.  The houses are made and covered with bark 
+of trees, and mostly are flat at the top.  Some are 100, 90, or 80 
+paces long and 22 and 23 feet high.  There were some inside doors 
+of hewn boards, furnished with iron hinges.  In some houses we 
+saw different kinds of iron work, iron chains, harrow irons, iron 
+hoops, nails,--which they steal when they go forth from here.  
+Most of the people were out hunting deer and bear.  The houses 
+were full of corn that they call onersti, and we saw maize; yes, 
+in some of the houses more than 300 bushels.  They make canoes 
+and barrels of the bark of trees, and sew with bark as well.  We 
+had a good many pumpkins cooked and baked that they called 
+anansira.  None of the chiefs were at home, but the principal 
+chief is named Adriochten, who lived a quarter of a mile from 
+the fort in a small house, because a good many savages here in 
+the castle died of smallpox.  I sent him a message to come and 
+see us, which he did; he came and bade me welcome, and said 
+that he wanted us very much to come with him.  We should have 
+done so, but when already on the way another chief called us, and 
+so we went to the castle again.  This one had a big fire lighted, and 
+a fat haunch of venison cooked, of which we ate.  he gave us two 
+bearskins to sleep upon, and presented me with three beaver skins.  
+In the evening Willem Tomassen, whose legs were swollen from 
+the march, had a few cuts made with a knife therein, and after 
+that had them rubbed with bear grease.  We slept in this house, at 
+heartily of pumpkins, beans and venison, so that we were not hungry, 
+but were treated as well as is possible in their land.  We hope that all 
+will succeed.
+
+December 14.  Jeronimus wrote a letter to our commis (factor), 
+Marten Gerritsen, and asked for paper, salt, and atsochwat--that 
+means tobacco for the savages.  We went out to shoot turkeys 
+with the chief, but could not get any.  In the evening I bought a 
+very fat one for two hands of seewan.  The chief cooked it for us, 
+and the grease he mixed with our beans and maize.  This chief 
+showed me his idol; it was a male cat's head, with the teeth sticking 
+out; it was dressed in duffel cloth.  Others have a snake, a turtle, a 
+swan, a crane, a pigeon, or the like for their idols, to tell the fortune; 
+they think they will always have good luck in doing so.  From here 
+two savages went with their skins to Fort Orange.
+
+December 15.  I went again with the chief to hunt turkeys, but 
+could not get any; and in the evening the chief again showed us 
+his idol, and we resolved to stay here for another two or three 
+days till there should be an opportunity to proceed, because all the
+footpaths had disappeared under the heavy snowfalls.
+
+December 16.  After midday a famous hunter came here named 
+Sickarus, who wanted very much that we should go with him to 
+his castle.  He offered to carry our goods and to let us sleep and 
+remain in his house as long as we liked; and because he was 
+offering us so much I gave him a knife and two awls as a present, 
+and to the chief in whose house we had been I presented a knife 
+and a pair of scissors; and then we took our departure from this 
+castle, named Onekagoncka, and after going for half a league over 
+the ice we saw a village with only six houses, of the Canowarode; 
+but we did not enter it, because he said it was not worth while, and 
+after another half league we passed again a village where twelve 
+houses stood.  It was named Schatsyerosy.  These were like the 
+others, he saying they likewise were not worth while entering; and 
+after passing by great stretches of flat land, for another league or 
+league and a half, we came into this castle, at two good hours after 
+dark.  I did not see much besides a good many graves.  This castle 
+is named Canagere.  It is built on a hill, without any palisades or 
+any defense.  We found only seven men at home, besides a party of 
+old women and children.  The chiefs of this castle, named Tonno-
+satton and Tonewerot, were hunting; so we slept in the house of 
+Sickarus, as he had promised us; and we counted in his house 120 
+pieces of salable beaver skins that he captured with his own dogs.  
+Every day we ate beaver meat here.  In this castle are sixteen houses, 
+50, 60, 70, or 80 paces long, and one of sixteen paces, and one of five
+paces, containing a bear to be fattened.  It had been in there upward of
+three years, and was so tame that it took everything that was given to it 
+to eat.
+
+December 17.  Sunday we looked over our goods, and found a paper 
+filled with sulphur, and Jeronimus took some of it and threw it in the 
+fire.  They saw the blue flame and smelled the smoke, and told us 
+they had the same stuff; and when Sickarus came they asked us to let 
+them take a look at it, and it was the same; and we asked him where 
+he obtained it.  He told us they obtained it from the stranger savages, 
+and that they believed it to be good against many maladies, but prin-
+cipally for their legs when they were sore from long marching and 
+were very tired.
+
+December 18.  Three women of the Sinnekens came here with dried 
+and fresh salmon; the latter smelled very bad.  They sold each salmon 
+for one florin or two hands of seawan.  They brought, also, a good 
+quantity of green tobacco to sell; and had been six days on the march.  
+They could not sell all their salmon here, but went farther on to the 
+first castle; and when they returned we were to go with them, and in 
+the evening Jeronimus told me that a savage tried to kill him with a 
+knife.
+
+
+December 19.  We received a letter from Marten Gerritsen dated 
+December 18, and with it we received paper, salt, tobacco for the 
+savages, and a bottle of brandy, and secured an Indian that was 
+willing to be our guide for the Sinnekens.  We gave him half a 
+yard of cloth, two axes, two knives, and two awls.  If it had been 
+summer, many Indians would have gone with us, but as it was 
+winter they would not leave their land, because it snowed very 
+often up to the height of a man.  To-day we had a great rainfall, 
+and I gave the guide a pair of shoes.  His name was Sqorhea.
+
+December 20.  We took our departure from the second castle, and, 
+after marching a league, our savage, Sqorhea, came to a stream that 
+we had to pass.  This stream ran very fast; besides, big cakes of ice 
+came drifting along, for the heavy rainfall during yesterday had set 
+the ice drifting.  We were in great danger, for if one of us had lost 
+his footing it had cost us our lives; but God the Lord preserved us, 
+and we came through safely.  We were wet up to above the waist, 
+and after going for another half league we came thus wet, with our 
+clothes, shoes and stockings frozen to us, to a very high hill on 
+which stood 32 houses, like the other ones.  Some were 100, 90, 
+or 80 paces long; in every house we saw four, five, or six fireplaces 
+where cooking went on.  A good many savages were at home, so we 
+were much looked at by both the old and the young; indeed, we 
+could hardly pass through.  They pushed each other in the fire to 
+see us, and it was more than midnight before they took their departure. 
+We could not absent ourselves to go to stool; even then they crawled
+around us without any feeling of shame.  This is the third castle and 
+is named Schanidisse.  The chief's name is Tewowary.  They lent me 
+this evening a lion skin to cover myself; but in the morning I had 
+more than a hundred lice.  We ate much venison here.  Near this 
+castle there is plenty of flat land, and the wood is full of oaks and 
+nut trees.  We exchanged here one beaver skin for one awl.
+
+December 21.  We started very early in the morning, and thought 
+of going to the fourth estate, but after a half league's marching we 
+came to a village with only nine houses, of the name of Osquage; 
+the chief's name was Oquoho--that is, wolf.  And here we saw a 
+big stream that our guide did not dare to cross, as the water was 
+over one's head because of the heavy rainfall; so we were obliged 
+to postpone it till the next day.  The chief treated us very kindly; 
+he did us much good and gave us plenty to eat, for everything to 
+be found in his houses was at our service.  He said often to me that 
+I was his brother and good friend; yes, he told me even how he had 
+been travelling overland for thirty days, and how he met there an 
+Englishman, to learn the language of the Minquase and to buy the 
+skins.  I asked him whether there were any French savages there 
+with the Sinnekens.  He said yes; and I felt gratified and had a 
+good hope to reach my aim.  They called me here to cure a man 
+that was very sick.
+
+December 22.  When the sun rose, we waded together through 
+the stream; the water was over the knee, and so cold that our 
+shoes and stockings in a very short time were frozen as hard 
+as armor.  The savages dared not go through, but went two by 
+two, with a stick and hand in hand; and after going half a league 
+we came to a village named Cawaoge.  There stood fourteen 
+houses, and a bear to fatten.  We went in and smoked a pipe of 
+tobacco, because the old man who was our guide was very tired.  
+Another old man approached us, who shouted, "Welcome, 
+welcome! you must stop here for the night"; but we wanted to 
+be on the march and went forward.  I tried to buy the bear, but 
+they would not let it go.  Along these roads we saw many trees 
+much like the savin, with a very thick bark.  This village 
+likewise stood on a very high hill, and after going for another 
+league we came into the fourth castle by land whereon we saw 
+only a few trees.  The name is Te notoge.  There are 55 houses, 
+some one hundred, others more or fewer paces long.  The kill 
+we spoke about before runs past here, and the course is mostly 
+north by west and south by east.  On the other bank of the kill 
+there are also houses; but we did not go in, because they were 
+most of them filled with corn and the houses in this castle are 
+filled with corn and beans.  The savages here looked much 
+surprised to see us, and they crowded so much around us that 
+we could hardly pass through, for nearly all of them were at 
+home.  After awhile one of the savages came to us and invited
+us to go with him to his house, and we entered.  This castle 
+had been surrounded by three rows of palisades, but now there 
+were none save six or seven pieces so thick that it was quite a 
+wonder that savages should be able to do that.  They crowded 
+each other in the fire to see us.
+
+December 23.  A man came calling and shouting through some 
+of the houses, but we did not know what it meant, and after awhile
+Jeronimus de la Croix came and told us what this was--that the 
+savages are preparing and arming.  I asked them what all this was
+about, and they said to me:  "Nothing, we shall play with one 
+another," and there were four men with clubs and a party with 
+axes and sticks.  There were twenty people armed, nine on one 
+side and eleven on the other; and they went off against each 
+other, and they fought and threw each other.  Some of them 
+wore armor and helmets that they themselves make of thin 
+reeds and strings braided upon each other so that no arrow or 
+axe can pass through to wound them severely; and after they had 
+been playing thus a good while the parties closed and dragged 
+each other by the hair, just as they would have done to their 
+enemies after defeating them and before cutting off their scalps.  
+They wanted us to fire our pistols, but we went off and left them 
+alone.  This day we were invited to buy bear meat, and we also 
+got half a bushel of beans and a quantity of dried strawberries, 
+and we bought some bread, that we wanted to take on our march.  
+Some of the loaves were baked with nuts and cherries and dry 
+blueberries and the grains of the sunflower.
+
+December 24.  It was Sunday.  I saw in one of the houses a 
+sick man.  He had invited two of their doctors that could cure
+him--they call them simachkoes; and as soon as they came they 
+began to sing and to light a big fire.  They closed the house most 
+carefully everywhere, so that the breeze could not come in, and 
+after that each of them wrapped a snakeskin around his head.  
+They washed their hands and faces, lifted the sick man from his 
+place, and laid him alongside the big fire.  Then they took a 
+bucket of water, put some medicine in it, and washed in this 
+water a stick about half a yard long, and kept sticking it in 
+their throats so that no end of it was to be seen; and then they 
+spat on the patient's head, and over all his body; and after that
+ they made all sorts of farces, as shouting and raving, slapping 
+of the hands; so are their manners; with many demonstrations 
+upon one things and another till they perspired so freely that 
+their perspiration ran down all sides.
+
+December 25--being Christmas.  We rose early in the morning 
+and wanted to go to the Sinnekens; but, as it was snowing steadily, 
+we could not go, because nobody wanted to go with us to carry 
+our goods.  I asked them how many chiefs there were in all, and 
+they told me thirty.
+
+December 26.  In the morning I was offered two pieces of bear's 
+bacon to take with us on the march; and we took our departure, 
+escorted by many of them that walked before and after us.  They 
+kept up shouting:  "Allesa rondade!" that is, to fire our pistols; 
+but we did not want to do so, and at last they went back.  This 
+day we passed over many a stretch of flat land, and crossed a kill 
+where the water was knee-deep; and I think we kept this day mostly 
+the direction west and northwest.  The woods that we traversed 
+consisted in the beginning mostly of oaks, but after three or four 
+hours' marching it was mostly birch trees.  It snowed the whole 
+day, so it was very heavy marching over the hills; and after seven 
+leagues, by guess, we arrived at a little house made of bark in the 
+forest, where we lighted a fire and stopped for the night to sleep.  
+It went on snowing, with a sharp, northerly wind.  It was very cold.
+
+December 27.  Early in the morning again on our difficult march, 
+while the snow lay 2 1/2 feet in some places.  We went over hills 
+and through underwood.  We saw traces of two bears, and elks, 
+but no savages.  There are beech trees; and after marching another 
+seven or eight leagues, at sunset we found another little cabin in the 
+forest, with hardly any bark, but covered with the branches of trees.  
+We made a big fire and cooked our dinner.  It was so very cold 
+during this night that I did not sleep more than two hours in all.
+
+December 28.  We went as before, and after marching one or two 
+leagues we arrived at a kill that, as the savages told me, ran into 
+the land of the Minquaass, and after another mile we met another 
+kill that runs into the South River, as the savages told me, and here 
+a good many otter and beaver are caught.  This day we went over 
+many high hills.  The wood was full of great trees, mostly birches; 
+and after seven or eight leagues' marching we did the same as 
+mentioned above.  It was very cold.
+
+December 29.  We went again, proceeding on our voyage; and after
+marching a while we came on a very high hill, and as we nearly had
+mounted it I fell down so hard that I thought I had broken my ribs, 
+but it was only the handle of my cutlass that was broken.  We went
+through a good deal of flat land, with many oaks and handles for 
+axes, and after another seven leagues we found another hut, where 
+we rested ourselves.  We made a fire and ate all the food we had, 
+because the savages told us that we were still about four leagues 
+distant from the castle.  The sun was near setting as still another of 
+the savages went on to the castle to tell them we were coming.  We 
+would have gone with him, but because we felt so very hungry the 
+savages would not take us along with them.  The course northwest.
+
+December 30.  Without anything to eat we went to the Sinnekens' 
+castle, and after marching awhile the savages showed me the branch 
+of the river that passes by Fort Orange and past the land of the 
+Maquas.  A woman came to meet us, bringing us baked pumpkins 
+to eat.  This road was mostly full of birches and beautiful flat land 
+for sowing.  Before we reached the castle we saw three graves, just 
+like our graves in length and height; usually their graves are round.  
+These graves were surrounded with palisades that they had split 
+from trees, and they were closed up so nicely that it was a wonder 
+to see.  They were painted with red and white and black paint; but 
+the chief's grave had an entrance, and at the top of that was a big 
+wooden bird, and all around were painted dogs, and deer, and snakes, 
+and other beasts.  After four or five leagues' marching the savages 
+still prayed us to fire our guns, and so we did, but loaded them again
+directly and went on to the castle.  And we saw to the northwest of 
+us, a large river, and on the other side thereof tremendously high 
+land that seemed to lie in the clouds.  Upon inquiring closely into this, 
+the savages told me that in this river the Frenchmen came to trade.  
+And then we marched confidently to the castle, where the savages 
+divided into two rows, and so let us pass through them by the gate, 
+which was--the one we went through--3 1/2 feet wide, and at the top 
+were standing three big wooden images, carved like men, and with 
+them I saw three scalps fluttering in the wind, that they had taken 
+from their foes as a token of the truth of their victory.  This castle 
+has two gates, one on the east and one on the west side.  On the 
+east side a scalp was also hanging; but this gate was 1 1/2 feet 
+smaller than the other one.  When at last we arrived in the chief's 
+house, I saw there a good many people that I knew; and we were 
+requested to sit down in the chief's place where he was accustomed 
+to sit, because at the time he was not at home, and we felt cold and 
+were wet and tired.  They at once gave us to eat, and they made a 
+good fire.  This castle likewise is situated on a very high hill, and 
+was surrounded with two rows of palisades.  It was 767 paces in
+circumference.  There are 66 houses, but much better, higher, and 
+more finished than all the others we saw.  A good many houses had
+wooden fronts that are painted with all sorts of beasts.  There they 
+sleep mostly on elevated boards, more than any other savages.  In 
+the afternoon one of the council came to me, asking the reason of 
+our coming into his land, and what we brought for him as a present.  
+It told him that we did not bring any present, but that we only paid 
+him a visit.  He told us that we were not worth anything, because 
+we did not bring him a present.  Then he told us how the Frenchmen 
+had come thither to trade with six men, and had given them good 
+gifts, because they had been trading in this river with six men in 
+the month of August of this year.  We saw very good axes to cut the
+underwood, and French shirts and coats and razors; and this member 
+of the council said we were scoundrels, and were not worth anything
+because we paid not enough for their beaver skins.  They told us that 
+the Frenchmen gave six hands of seawan for one beaver, and all sorts 
+of things more.  The savages were pressing closely upon us, so that 
+there was hardly room for us to sit.  If they had desired to molest us, 
+we could hardly have been able to defend ourselves; but there was no
+danger.  In this river here spoken of, often six, seven, or eight hundred
+salmon are caught in a single day.  I saw houses where 60, 70, and 
+more dried salmon were hanging.
+
+December 31.  On Sunday the chief of this castle came back (his 
+name is Arenias), and one more man.  They told us that they 
+returned from the French savages, and some of the savages shouted 
+"Jawe Arenias!" which meant that they thanked him for having come 
+back.  And I told him that in the night we should fire three shots; and 
+he said it was all right; and they seemed very well contented.  We
+questioned them concerning the situation [of the places] in their 
+castle and their names, and how far they were away from each other.  
+They showed us with stones and maize grains, and Jeronimus then 
+made a chart of it.  And we counted all in leagues how far each place 
+was away from the next.  The savages told us that on the high land 
+which we had seen by that lake there lived men with horns on their 
+heads; and they told us that a good many beavers were caught there, 
+too, but they dared not go so far because of the French savages; 
+therefore they thought best to make peace.  We fired three shots 
+in the night in honor of the year of our Lord and Redeemer, Jesus 
+Christ.
+
+Praise the Lord above all!  In the castle Onneyuttehage, or Sinne-
+kens, January 1, 1635.
+
+January 1, 1635.  Another savage scolded at us.  We were scoundrels, 
+as told before; and he looked angry.  Willem Tomassen got so excited 
+that the tears were running along his cheeks, and the savages, seeing 
+that we were not at all contented, asked us what was the matter, and 
+why we looked so disgusted at him.  There were in all 46 persons 
+seated near us; if they had intended to do mischief, they could easily 
+have caught us with their hands and killed us without much trouble; 
+when I had listened long enough to the Indian's chatter I told him 
+that he was a scoundrel himself and he began to laugh, said he was 
+not angry and said:  "You must not grow so furious, for we are very 
+glad that you came here."  And after that Jeronimus gave the chief 
+two knives, two pairs of scissors, and a few awls and needles that we 
+had with us.  And in the evening the savages suspended a band of 
+seawan, and some other stringed seawan that the chief had brought 
+with him from the French savages as a sign of peace and that the 
+French savages were to come in confidence to them, and he sang:  
+"Ho schene jo ho ho schene I atsiehoewe atsihoewe," after which all 
+the savages shouted three times:  "Netho, netho, netho!" and after 
+that another band of seawan was suspended and he sang then:  
+"Katon, katon, katon, katon!" and all the savages shouted as hard 
+as they could:  "Hy, hy, hy!"  After long deliberation they made 
+peace for four years, and soon after everyone returned to his home.
+
+January 2.  The savages came to us and told us that we had better 
+stop another four or five days.  They would provide for all our needs 
+and have us treated nicely; but I told them we could not wait so long 
+as that.  They replied that they had sent a message to the Onondagas--
+that is, the castle next to theirs--but I told them they nearly starved 
+us.  Then they said that in future they would look better after us, and 
+twice during this day we were invited to be their guests, and treated 
+to salmon and bear's bacon.
+
+January 3.  Some old men came to us and told us they wanted to be 
+our friends, and they said we need not be afraid.  And I replied we 
+were not afraid, and in the afternoon the council sat here--in all, 24 
+men--and after consulting for a long while an old man approached 
+me and laid his hand upon my heart to feel it beat; and then he 
+shouted we really were not afraid at all.  After that six more members 
+of the council came, and after that they presented me a coat made of 
+beaver skin, and told me they gave it to me because I came here and 
+ought to be very tired, and he pointed to his and my legs; and besides, 
+it is because you have been marching through the snow.  And when I 
+took the coat they shouted three times:  "Netho, netho, netho!" which 
+means, "This is very well."  And directly after that they laid five pieces 
+of beaver skins on my feet, at the same time requesting me that in the 
+future they should receive four hands of seawan and four handbreadths 
+of cloth for every big beaver skin, because we have to go so far with 
+our skins; and very often when we come to your places we do not find 
+any cloth or seawan or axes or kettles, or not enough for all of us, 
+and then we have had much trouble for nothing, and have to go back 
+over a great distance, carrying out goods back again.  After we sat for 
+a considerable time, an old man came to us, and translated it to us in 
+the other language, and told us that we did not answer yet whether 
+they were to have four hands of seawan or not for their skins.  I told 
+him that we had not the power to promise that, but that we should 
+report about it to the chief at the Manhatans, who was our commander, 
+and that I would give him a definite answer in the spring, and come 
+myself to their land.  Then they said to me "Welsmachkoo," you must 
+not lie, and surely come to us in the spring, and report to us about all.  
+And if you will give us four hands of seawan we will not sell our 
+skins to anyone but you; and after that they gave me the five beaver 
+skins, and shouted as hard as they could:  "Netho, netho, netho!"  
+And then, that everything should be firmly binding, they called or 
+sang:  "Ha assironi atsimach koo kent oya kayuig wee Onneyatte
+Onaondaga Koyocke hoo hanoto wany agweganne hoo schene ha 
+caton scahten franosoni yndicho."  That means that I could go in all 
+these places--they said the names of all the castles--freely and every-
+where.  I should be provided with a house and a fire and wood and
+everything I needed; and if I wanted to go to the Frenchmen they 
+would guide me there and back; and after that they shouted again:  
+"Netho, netho, netho!" and they made a present of another beaver 
+skin to me, and we ate to-day bear meat that we were invited to.  In 
+this house, belonging to the chief, there were three or four meals a 
+day, and they did not cook in it, as everything was brought in from 
+the other houses in large kettles; for it was the council that took their
+meals here every day.  And whoever then happens to be in the house
+receives a bowlful of food; for it is the rule here that everyone that 
+comes here has his bowl filled; and if they are short of bowls they 
+bring them and their spoons with them.  They go thus and seat them-
+selves side by side; the bowls are then fetched and brought back 
+filled, for a guest that is invited does not rise before he has eaten. 
+Sometimes they sing, and sometimes they do not, thanking the host 
+before they return home.
+
+January 4.  Two savages came, inviting us to come and see how 
+they used to drive away the devil.  I told them that I had seen it 
+before; but they did not move off, and I had to go; and because I 
+did not choose to go alone I took Jeronimus along.  I saw a dozen 
+men together who were going to drive him off.  After we arrived 
+the floor of the house was thickly covered with the bark of trees 
+for the hunters of the devil to walk upon.  They were mostly old 
+men, and they had their faces all painted with red paint--which 
+they always do when they are going to do anything unusual.  
+Three men among them had a wreath on their heads, on which 
+stuck five white crosses.  These wreaths are made of deer hair 
+that they had braided with the roots of a sort of green herb.  In 
+the middle of the house they then put a man who was very sick, 
+and who was treated without success during a considerable time.  
+Close by sat an old woman with a turtle shell in her hands.  In the 
+turtle shell were a good many beads.  She kept clinking all the 
+while, and all of them sang to the measure; then they would 
+proceed to catch the devil and trample him to death; they trampled 
+the bark to atoms so that none of it remained whole, and wherever 
+they saw but a little cloud of dust upon the maize, they beat at it in 
+great amazement and then they blew that dust at one another and 
+were so afraid that they ran as if they really saw the devil; and after 
+long stamping and running one of them went to the sick man and 
+took away an otter that he had in his hands; and he sucked the sick 
+man for awhile in his neck and on the back, and after that he spat in
+ the otter's mouth and threw it down; at the same time he ran off like 
+made through fear.  Other men then went to the otter, and then there 
+took place such foolery that it was a wonder to see.  Yes; they 
+commenced to throw fire and eat fire, and kept scattering hot ashes
+ and red-hot coals in such a way that I ran out of the house.  Today 
+another beaver skin was presented to me.
+
+January 5.  I bought four dried salmon and two pieces of bear bacon 
+that was about nine inches thick; and we saw thicker, even.  They 
+gave us beans cooked with bear bacon to eat to-day, and further nothing 
+particular happened.
+
+January 6.  Nothing particular than that I was shown a parcel of flint
+stones wherewith they make fire when they are in the forest.  Those 
+stones would do very well for firelock guns.
+
+January 7.--We received a letter from Marten Gerritsen, dated from 
+the last of December; it was brought by a Sinneken that arrived from 
+our fort.  He told us that our people grew very uneasy about our not
+coming home, and that they thought we had been killed.  We ate 
+fresh salmon only two days caught, and we were robbed to-day of 
+six and a half hands of seawan that we never saw again.
+
+
+January 8.  Aarenias came to me to say that he wanted to go with 
+me to the fort and take all his skins to trade.  Jeronimus tried to 
+sell his coat here, but he could not get rid of it.
+
+January 9.  During the evening the Onondagas came.  There were 
+six old men and four women.  They were very tired from the march, 
+and brought with them some bear skins.  I came to meet them, and 
+thanked them that they came to visit us; and they welcomed me, and
+because it was very late I went home.
+
+January 10.  Jeronimus burned the greater part of his pantaloons, that 
+dropped in the fire during the night, and the chief's mother gave him 
+cloth to repair it, and Willem Tomassen repaired it.
+
+January 11.  At ten o'clock in the morning the savages came to me 
+and invited me to come to the house where the Onondagans sat in 
+council.  "They will give you presents"; and I went there with 
+Jeronimus; took our pistols with us and sat alongside of them, near 
+an old man of the name of Canastogeera, about 55 years of age; and 
+he said:  "Friends, I have come here to see you and to talk to you;"
+wherefore we thanked him, and after they had sat in council for a 
+long time an interpreter came to me and gave me give pieces of 
+beaver skin because we had come into their council.  I took the 
+beaver skins and thanked them, and they shouted three times 
+"Netho!"  And after that another five beaver skins that they laid 
+upon my feet, and they gave them to me because I had come into 
+their council-house.  We should have been given a good many 
+skins as presents if we had come into his land; and they earnestly
+requested me to visit their land in the summer, and after that gave 
+me another four beaver skins and asked at the same time to be better 
+paid for their skins.  They would bring us a great quantity if we did; 
+and if I came back in the summer to their land we should have three 
+or four savages along with us to look all around that lake and show 
+us where the Frenchmen came trading with their shallops.  And when 
+we gathered our fourteen beavers they again shouted as hard as they 
+could, "Zinae netho!" and we fired away with our pistols and gave 
+the chief two pairs of knives, some awls, and needles; and then we 
+were informed we might take our departure.  We had at the time five 
+pieces of salmon and two pieces of bear bacon that we were to take 
+on the march, and here they gave a good many loaves and even flour 
+to take with us.
+
+January 12.  We took our departure; and when we thought every-
+thing was ready the savages did not want to carry our goods--twenty
+-eight beaver skins, five salmon, and some loaves of bread--because 
+they all had already quite enough to carry; but after a good deal of
+grumbling and nice words they at last consented and carried our 
+goods.  Many savages walked along with us and they shouted, 
+"Alle sarondade!" that is, to fire the pistols; and when we came near 
+the chief's grave we fired three shots, and they went back.  It was 
+about nine o'clock when we left this place and walked only about 
+five leagues through 2 1/2 feet of snow.  It was a very difficult road, 
+so that some of the savages had to stop in the forest and sleep in the 
+snow.  We went on, however, and reached a little cabin, where we 
+slept.
+
+January 13.  Early in the morning we were on our journey again, and 
+after going seven or eight leagues we arrived at another hut, where 
+we rested awhile, cooked our dinner, and slept.  Arenias pointed out 
+to me a place on a high mountain, and said that after ten days' 
+marching we could reach a big river there where plenty of people are
+living, and where plenty of cows and horses are; but we had to cross 
+the river for a whole day and then to proceed for six days more in 
+order to reach it.  This was the place which we passed on the 29th of
+December.  He did us a great deal of good.
+
+January 14.  On Sunday we made ready to proceed, but the chief 
+wished to go bear hunting and wanted to stop here but, because it 
+was fine weather, I went alone with two or three savages.  Here two
+Maquas Indians joined us, as they wanted to go and trade elk skins 
+and satteeu.
+
+January 15.  In the morning, two hours before daylight, after taking 
+breakfast with the savages, I proceeded on the voyage, and when it 
+was nearly dark again the savages made a fire in the wood, as they 
+did not want to go farther, and I came about three hours after dark 
+to a hut where I had slept on the 26th of December.  It was very 
+cold.  I could not make a fire, and was obliged to walk the whole 
+night to keep warm.
+
+January 16.  In the morning, three hours before dawn, as the moon 
+rose, I searched for the path, which I found at last; and because I 
+marched so quickly I arrived about nine o'clock on very extensive 
+flat land.  After having passed over a high hill I came to a very even 
+footpath that had been made through the snow by the savages who 
+had passed this way with much venison, because they had come 
+home to their castle after hunting; and about ten o'clock I saw the 
+castle and arrived there about two o'clock.  Upward of one hundred 
+people came out to welcome me, and showed me a house where I 
+could go.  They gave me a white hare to eat that they caught two 
+days ago.  They cooked it with walnuts, and they gave me a piece 
+of wheaten bread a savage that had arrived here from Ford Orange 
+on the fifteenth of this month had brought with him.  In the evening 
+more than forty fathoms of seawan were divided among them as 
+the last will of the savages that had died of the smallpox.  It was 
+divided in the presence of the chief and the nearest friends.  It is 
+their custom to divide among the chief and nearest friends.  And 
+in the evening the savages gave me two bear skins to cover me, 
+and they brought rushes to lay under my head, and they told us 
+that our kinsmen wanted us very much to come back.
+
+January 17.  Jeronimus and Tomassen, with some savages, joined 
+us in this castle, Tenotogehage, and they still were all right; and 
+in the evening I saw another hundred fathoms of seawan divided 
+among the chief and the friends of the nearest blood.
+
+January 18.  We went again to this castle, I should say from this 
+castle on our route, in order to hasten home.  In some of the houses 
+we saw more than forty or fifty deer cut in quarters and dried; but 
+they gave us very little of it to eat.  After marching half a league we 
+passed through the village of Kawaoge, and after another half league 
+we came to the village of Osquage.  The chief, Ohquahoo, received 
+us well, and we waited here for the chief, Arenias, whom we had left 
+in the castle Te Notooge.
+
+January 19.  We went as fast as we could in the morning, proceeding 
+on the march; and after going half a league we arrived at the third 
+castle, named Schanadisse, and I looked around in some of the 
+houses to see whether there were any skins.  I met nine Onondagas 
+there with skins, that I told to go with me to the second castle, where 
+the chief, Taturot, I should say Tonewerot, was at home, who wel-
+comed us at once, and gave us a very fat piece of venison, which we 
+cooked; and when we were sitting at dinner we received a letter from
+Marten Gerritsen, brought us by a savage that came in search of us, 
+and was dated January 18.  We resolved to proceed at once to the 
+first castle, and to depart on the morrow for Fort Orange, and a good 
+three hours before sunset we arrived at the first castle.  We had bread
+baked for us again, and packed the three beavers we had received from 
+the chief when we had first come here.  We slept here this night and 
+ate here.
+
+January 20.  In the morning, before daylight, Jeronimus sold his coat 
+for four beaver skins to an old man.  We set forth at one hour before
+daylight, and after marching by guess two leagues the savages pointed 
+to a high mountain where their castle stood nine years before.  They 
+had been driven out by the Mahicans, and after that time they did not 
+want to live there.  After marching seven or eight leagues we found 
+that the hunters' cabins had been burned, so we were obliged to sleep
+under the blue sky.
+
+January 21.  We proceeded early in the morning, and after a long 
+march we took a wrong path that was the most walked upon; but as 
+the savages knew the paths better than we did they returned with us, 
+and after eleven leagues' marching we arrived, the Lord be praised 
+and thanked, at Fort Orange, January 21, anno 1635.
+
+[Vocabulary of the Maquas.]
+
+Assire or aggaha..............................Cloth.
+Atoga...............................................Axes.
+Atsochta...........................................Adze.
+Assere..............................................Knives.
+Assaghe............................................Rapier.
+Attochwat.........................................Spoons.
+Ondach.............................................Kettles.
+Endat hatste......................................Looking-glass.
+Sasaskarisat......................................Scissors.
+Kamewari (Garonare?).....................Awls.
+Onekoera..........................................Seawan, their money.
+Tiggeretait........................................Combs.
+Catse (Garistats?).............................Bell.
+Dedaia witha.....................................Shirts or coats.
+Nonnewarory....................................Fur caps.
+Eytroghe...........................................Beads.
+Canagosat.........................................Scraper.
+Caris.................................................Stockings.
+Achta................................................Shoes.
+
+Names of animals that occur there:
+
+Aque (Gario?)...................................Deer.
+Aquesados.........................................Horse.
+Adiron...............................................Cat.
+Aquidagon.........................................Ox.
+Senoto wanne....................................Elk.
+Ochquari...........................................Bear.
+Sinite................................................Beaver.
+Tawyne............................................Otter.
+Eyo...................................................Mink.
+Senadondo........................................Fox.
+Ochquoha.........................................Wolf.
+Seranda.............................................Male cat.
+Ichar or sateeni.................................Dog.
+Tali...................................................Crane.
+Kragequa..........................................Swans.
+Kahanckt..........................................Geese.
+Schawariwane..................................Turkeys.
+Schascari wanasi..............................Eagles.
+Tantanege.........................................Hares.
+Onckwe............................................Men.
+Etsi (Eightjen?)................................A man.
+Coenhechti (Gahetien?)...................A woman.
+Ocstaha............................................An old man.
+Odasqueta........................................An old woman.
+Sine gechtera...................................A wooer.
+Exhechta..........................................A lass.
+Ragina..............................................Father.
+Distan...............................................Mother.
+Cian..................................................Child.
+Rocksongwa (Ronwaye?)................Boy.
+Canna warori....................................Prostitute.
+Onentar.............................................Woman in labor.
+Ragenonou.......................................Uncle.
+Rackesie...........................................Cousin.
+Anochquis........................................Hair.
+Anonsi..............................................Head.
+Ohochta............................................Ears.
+Ohonikwa........................................Throat.
+Oneyatsa..........................................Nose.
+Owanisse.........................................Tongue.
+Onawy.............................................Teeth.
+Onenta.............................................Arm.
+Osnotsa............................................Hands.
+Onatassa...........................................Fingers.
+Otich kera........................................Thumb.
+Otsira................................................Nails.
+Onvare..............................................Shoulder blade.
+Orochquine.......................................Spine.
+Ossidan.............................................Feet.
+Onera................................................Pudenda.
+Oeuda...............................................Excrements.
+Onsaha.............................................Vesicle.
+Canderes...........................................Phallus.
+Awahta.............................................Testicles.
+Casoya..............................................Ship, canoe.
+Conossade........................................House or hut.
+Onega...............................................Water.
+Oetseira............................................Fire.
+Oyente.............................................Wood (firewood).
+Oscante............................................Bark.
+Canadera..........................................Bread.
+Ceheda (Osaheta?)...........................Beans.
+Onesta..............................................Maize.
+Cinsie...............................................Fish.
+Ghekeront........................................Salmon.
+Oware..............................................Meat.
+Athesera...........................................Flour.
+Satsori..............................................To eat.
+Onighira...........................................To drink.
+Kastten kerreyager...........................Very hungry.
+Augustuske......................................Very cold.
+Oyendere.........................................Very good.
+Rockste............................................Friends.
+Iachte yendere.................................'Tis no good.
+Quane (Kewanea?)..........................Great.
+Canyewa..........................................Small.
+Wotstaha..........................................Broad.
+Cates................................................Thick.
+Satewa..............................................Alone.
+Sagat.................................................Doubly.
+Awaheya...........................................Death.
+Aghihi...............................................Sick.
+Sasnoron...........................................Hurry up.
+Archoo..............................................At once.
+Owaetsei...........................................At present.
+The derri...........................................Yesterday.
+Jorhani..............................................To-morrow.
+Careyago..........................................The sky.
+Karackwero......................................The sun.
+Asistock...........................................The stars.
+Sintho...............................................To sow.
+Deserentekar.....................................Meadow.
+Sorsar................................................To raise.
+Cana..................................................The seed.
+Onea..................................................Stone.
+Canadack or cany..............................Sack or basket.
+Canadaghi.........................................A castle.
+Oyoghi..............................................A kill [small river].
+Canaderage.......................................A river.
+Johati................................................A path or road.
+Onstara.............................................To weep.
+Aquayesse.........................................To laugh.
+Ohonte..............................................Grass, vegetables.
+Oneggeri...........................................Weeds or reeds or straw.
+Christittye..........................................Iron, copper, or lead.
+Onegonsera........................................Red paint.
+Cahonsye...........................................Black.
+Crage.................................................White.
+Ossivenda..........................................Blue.
+Endatcondere.....................................To paint.
+Joddireyo...........................................To fight.
+Aquinachoo.......................................Angry.
+Jaghac teroeni....................................Frightened.
+Dadeneye...........................................To gamble.
+Asserie...............................................Very strong.
+Carente..............................................Artful, crooked.
+Odossera............................................The bacon.
+Keye..................................................The fat.
+Wistotcera.........................................The grease.
+Ostie..................................................The bone.
+Aghidawe..........................................To sleep.
+Sinekaty.............................................Carnal copulation.
+Jankurangue.......................................Very tired.
+Atsochwat..........................................Tobacco.
+Canonou.............................................Pine.
+Esteronde...........................................The rain.
+Waghideria.........................................To sweat.
+Kayontochke.......................................Flat arable land.
+Ononda...............................................Mountains.
+Cayanoghe.........................................Islands.
+Schasohadee......................................The overside.
+Caroo.................................................Close by.
+Cadadiene..........................................To trade.
+Daweyate...........................................To sit in council.
+Agetsioga...........................................A string of beads.
+Aquayanderen....................................A chief.
+Seronquatse........................................A scoundrel.
+Sari wacksi.........................................A chatterer.
+Onewachten........................................A liar.
+Tenon commenyon.............................What do you want?
+Sinachkoo...........................................To drive the devil away.
+Adenocquat.........................................To give medicine.
+Coenhasaren.......................................To cure.
+Sategat................................................To light the fire, make fire.
+Judicha................................................The fire.
+Catteges issewe..................................When will you come again?
+Tosenochte..........................................I don't know.
+Tegenhondi.........................................In the spring.
+Otteyage..............................................In the summer.
+Augustuske.........................................In the winter.
+Katkaste..............................................To cook dinner.
+Jori................................................It is ready.
+Dequoguoha.................................To go hunting.
+Osqucha........................................I'll fetch it.
+Seyendere u..................................I know him well.
+Kristoni asseroni..........................Netherlanders, Germans.
+Aderondackx................................Frenchmen or Englishmen.
+Anesagghena................................Mahicans, or Mohigans.
+Torsas...........................................To the north.
+Kanon newage..............................Manhattan.
+Onscat...........................................One.
+Tiggeni..........................................Two.
+Asse...............................................Three.
+Cayere............................................Four.
+Wisch.............................................Five.
+Jayack............................................Six.
+Tsadack.........................................Seven.
+Sategon..........................................Eight.
+Tyochte..........................................Nine.
+Oyere.............................................Ten.
+Tawasse.........................................Forty.
+Onscat teneyawe...........................Hundred.
+
+
+BEGIN PROJECT GUTENBERG ETEXT "MEGAPOLENSIS 
+ON THE MOHAWKS."
+
+A Short Account of the Mohawk Indians, by Reverend Johannes 
+Megapolensis, Jr., 1644.   In J. Franklin Jameson, ed., Narratives 
+of New Netherland, 1609-1664 (Original Narratives of Early 
+American History).  NY: Charles Scribner's Sons, 1909.
+
+
+A Short Account of the Mohawk Indians, their Country, Language, 
+Stature, Dress, Religion and Government, thus described and recently, 
+August 26, 1644, sent out of New Netherland, by Johannes Megapol-
+ensis the younger, Preacher there.
+
+
+The Country here is in general like that in Germany.  The land is 
+good, and fruitful in everything which supplies human needs, except
+clothes, linen, woollen, stockings, shoes, etc., which are all dear here.  
+The country is very mountainous, partly soil, partly rocks, and with
+elevations so exceeding high that they appear to almost touch the 
+clouds.  Thereon grow the finest fir trees the eye ever saw.  There 
+are also in this country oaks, alders, beeches, elms, willows, etc.  In 
+the forests, and here and there along the water side, and on the islands, 
+there grows an abundance of chestnuts, plums, hazel nuts, large 
+walnuts of several sorts, and of as good a taste as in the Netherlands, 
+but they have a somewhat harder shell.  The ground on the hills is 
+covered with bushes of bilberries or blueberries; the ground in the 
+flat land near the rivers is covered with strawberries, which grow here 
+so plentifully in the fields, that one can lie down and eat them.  
+Grapevines also grow here naturally in great abundance along the 
+roads, paths, and creeks, and wherever you may turn you find them.  
+I have seen whole pieces of land where vine stood by vine and grew 
+very luxuriantly, climbing to the top of the largest and loftiest trees, 
+and although they are not cultivated, some of the grapes are found to 
+be as good and sweet as in Holland.  here is also a sort of grapes 
+which grow very large, each grape as big as the end of one's finger, 
+or an ordinary plum, and because they are somewhat fleshy and have 
+a thick skin we call them Speck Druyven.  If people would cultivate 
+the vines they might have as good wine here as they have in Germany 
+or France.  I had myself last harvest a boat-load of grapes and pressed
+them.  As long as the wine was new it tasted better than any French or
+Rhenish Must, and the color of the grape juice here is so high and red 
+that with one wine-glass full you can color a whole pot of white wine.  
+In the forests is great plenty of deer, which in autumn and early 
+winter are as fat as any Holland cow can be.  I have had them with fat 
+more than two fingers thick on the ribs, so that they were nothing else 
+than almost clear fat, and could hardly be eaten.  There are also many 
+turkies, as large as in Holland, but in some years less than in others.  
+The year before I came here, there were so many turkies and deer that 
+they came to feed by the houses and hog pens, and were taken by the 
+Indians in such numbers that a deer was sold to the Dutch for a loaf of 
+bread, or a knife, or even for a tobacco pipe; but now one commonly 
+has to give for a good deer six or seven guilders.  In the forests here 
+there are also many partridges, heath-hens and pigeons that fly together 
+in thousands, and sometimes ten, twenty, thirty and even forty and fifty 
+are killed at one shot.  We have here, too, a great number of all kinds of
+fowl, swans, geese, ducks, widgeons, teal, brant, which sport upon 
+the river in thousands in the spring of the year, and again in the 
+autumn fly away in flocks, so that in the morning and evening any 
+one may stand ready with his gun before his house and shoot them 
+as they fly past.  I have also eaten here several times of elks, which 
+were very fat and tasted much like venison; and besides these 
+profitable beasts we have also in this country lions, bears, wolves, 
+foxes, and particularly very many snakes, which are large and as long 
+as eight, ten, and twelve feet.  Among others, there is a sort of snake,
+which we call rattlesnake, from a certain object which it has back 
+upon its tail, two or three fingers' breadth long, and has ten or twelve
+joints, and with this it makes a noise like the crickets.  Its color is
+variegated much like our large brindled bulls.  These snakes have 
+very sharp teeth in their mouth, and dare to bite at dogs; they make 
+way for neither man nor beast, but fall on and bite them, and their 
+bite is very poisonous, and commonly even deadly too.
+
+As to the soil of this country, that on the mountains is a reddish 
+sand or rock, but in the low flat lands, and along the rivers, and 
+even in the jutting sides of the mountains for an hundred or two 
+hundred paces up, there is often clay.  I have been on hills here, 
+as high as a church, to examine the soil, and have found it to be 
+clay.  In this ground there appears to be a singular strength and 
+capacity for bearing crops, for a farmer here told me that he had 
+raised fine wheat on one and the same piece of land eleven years
+successively without ever breaking it up or letting it lie fallow.  
+The butter here is clean and yellow as in Holland.  Through this 
+land runs an excellent river, about 500 or 600 paces wide.  This 
+river comes out of the Mahakas Country, about four leagues north 
+of us.  There is flows between two high rocky banks, and falls 
+from a height equal to that of a church, with such a noise that 
+we can sometimes hear it here with us.  In the beginning of June 
+twelve of us took  ride to see it.  When we came there we saw 
+not only the river falling with such a noise that we could hardly 
+hear one another, but the water boiling and dashing with such 
+force in still weather, that it seemed all the time as if it were 
+raining; and the trees on the hills near by (which are as high as 
+Schoorler Duyn) had their leaves all the time wet exactly as if it 
+rained.  The water is as clear as crystal, and as fresh as milk.  I 
+and another with me saw there, in clear sunshine, when there 
+was not a cloud in the sky, especially when we stood above upon 
+the rocks, directly opposite where the river falls, in the great abyss, 
+the half of a rainbow, or a quarter of a circle, of the same color with 
+the rainbow in the sky.  And when we had gone about ten or twelve 
+rods farther downwards from the fall, along the river, we saw a 
+complete rainbow, like a half circle, appearing clearly in the water 
+just as if it had been in the clouds, and this is always so according 
+to the report of all who have ever been there.  In this river is a great 
+plenty of all kinds of fish--pike, eels, perch, lampreys, suckers, cat 
+fish, sun fish, shad, bass, etc.  In the spring, in May, the perch are so
+plenty, that one man with a hook and line will catch in one hour as 
+many as ten or twelve can eat.  My boys have caught in an hour fifty, 
+each a foot long.  They have three hooks on the instrument with 
+which they fish, and draw up frequently two or three perch at once.  
+There is also in the river a great plenty of sturgeon, which we Christians 
+do not like, but the Indians eat them greedily.  In this river, too, are 
+very beautiful islands, containing ten, twenty, thirty, fifty and seventy
+morgens of land.  The soil is very good, but the worst of it is, that by 
+the melting of the snow, or heavy rains, the river readily overflows 
+and covers that low land.  This river ebbs and flows at ordinary 
+low water as far as this place, although it is thirty-six leagues inland 
+from the sea.
+
+As for the temperature in this country, and the seasons of the year, 
+the summers are pretty hot, so that for the most of the time we are 
+obliged to go in just our shirts, and the winters are very cold.  The 
+summer continues long, even until All Saints' Day; but when the 
+winter does begin, just as it commonly does in December, it freezes 
+so hard in one night that the ice will bear a man.  Even the rivers, 
+in still weather when there is no strong current running, are frozen 
+over in one night, so that on the second day people walk over it.  
+And this freezing continues commonly three months; for although 
+we are situated here in 42 degrees of latitude, it always freezes so.  
+And although there come warm and pleasant days, the thaw does not
+continue, but it freezes again until March.  Then, commonly, the 
+rivers first begin to open, and seldom in February.  We have the 
+greatest cold from the northwest, as in Holland from the northeast.  
+The wind here is very seldom east, but almost always south, 
+southwest, northwest, and north; so also the rain.
+
+Our shortest winter days have nine hours sun; in the summer, our 
+longest days are about fifteen hours.  We lie so far west of Holland 
+that I judge you are about four hours in advance of us, so that when 
+it is six o'clock in the morning with us it is ten in the forenoon with 
+you, and when it is noon with us, it is four o'clock in the afternoon 
+with you.
+
+The inhabitants of this country are of two kinds:  first, Christians
+--at least so called; second, Indians.  Of the Christians I shall say 
+nothing; my design is to speak of the Indians only.  These among 
+us are again of two kinds:  first, the Mahakinbas, or, as they call 
+themselves, Kajingahaga; second, the Mahakans, otherwise 
+called Agotzagena.  These two nations have different languages, 
+which have no affinity with each other, like Dutch and Latin.  
+These people formerly carried on a great war against each other, 
+but since the Mahakanders were subdued by the Mahakobaas, 
+peace has subsisted between them, and the conquered are obliged 
+to bring a yearly contribution to the others.  We live among both 
+these kinds of Indians; and when they come to us from their 
+country, or we go to them, they do us every act of friendship.  
+The principal nation of all the savages and Indians hereabouts 
+with which we have the most intercourse, is the Mahakuaas, who 
+have laid all the other Indians near us under contribution.  This 
+nation has a very difficult language, and it costs me great pains 
+to learn it, so as to be able to speak and preach in it fluently.  
+There is no Christian here who understands the language thor-
+oughly; those who have lived here long can use a kind of jargon 
+just sufficient to carry on trade with it, but they do not understand 
+the fundamentals of the language.  I am making a vocabulary of 
+the Mahakuaas' language, and when I am among them I ask them 
+how things are called; but as they are very stupid, I sometimes 
+cannot make them understand what I want.  Moreover when they 
+tell me, one tells me the word in the infinitive mood, another in 
+the indicative; one in the first, another in the second person; one 
+in the present, another in the preterit.  So I stand oftentimes and 
+look, but do not know how to put it down.  And as they have 
+declensions and conjugations also, and have their augments like 
+the Greeks, I am like one distracted, and frequently cannot tell 
+what to do, and there is no one to set me right.  I shall have to 
+speculate in this alone, in order to become in time an Indian 
+grammarian.  When I first observed that they pronounced their 
+words so differently, I asked the commissary of the company 
+what it meant.  He answered me that he did not know, but 
+imagined they changed their language every two or three 
+years; I argued against this that it could never be that a whole 
+nation should change its language with one consent;--and, 
+although he has been connected with them here these twenty 
+years, he can afford me no assistance.
+
+The people and Indians here in this country are like us Dutch-
+men in body and stature; some of them have well formed 
+features, bodies and limbs; they all have black hair and eyes, 
+but their skin is yellow.  In summer they go naked, having only 
+their private parts covered with a patch.  The children and young 
+folks to ten, twelve and fourteen years of age go stark naked.  In 
+winter, they hang about them simply an undressed deer or bear 
+or panther skin; or they take some beaver and otter skins, wild 
+cat, raccoon, martin, otter, mink, squirrel or such like skins, 
+which are plenty in this country, and sew some of them to 
+others, until it is a square piece, and that is then a garments 
+for them; or they buy of us Dutchmen two and a half ells of 
+duffel, and that they hang simply about them, just as it was 
+torn off, without sewing it, and walk away with it.  They look 
+at themselves constantly, and think they are very fine.  They 
+make themselves stockings and also shoes of deer skin, or they 
+take leaves of their corn, and plait them together and use them 
+for shoes.  The women, as well as the men, go with their heads 
+bare.  The women let their hair grow very long, and tie it together 
+a little, and let it hang down their backs.  The men have a long 
+lock of hair hanging down, some on one side of the head, and 
+some on both sides.  On the top of their heads they have a streak 
+of hair from the forehead to the neck, about the breadth of three
+fingers, and this they shorten until it is about two or three fingers 
+long, and it stands right on end like a rock's comb or hog's bristles; 
+on both sides of this cock's comb they cut all the hair short, except 
+the aforesaid locks, and they also leave on the bare places here and 
+there small locks, such as are in sweeping-brushes, and then they 
+are in fine array.
+
+They likewise paint their faces red, blue, etc., and then they look 
+like the Devil himself.  They smear their heads with bear's-grease, 
+which they all carry with them for this purpose in a small basket; 
+they say they do it to make their hair grow better and to prevent 
+their having lice.  When they travel, they take with them some of 
+their maize, a wooden bowl, and a spoon; these they pack up and 
+hang on their backs.  Whenever they are hungry, they forthwith 
+make a fire and cook; they can get fire by rubbing pieces of wood 
+against one another, and that very quickly.
+
+They generally live without marriage; and if any of them have 
+wives, the marriage continues no longer than seems good to one 
+of the parties, and then they separate, and each takes another 
+partner.  I have seen those who had parted, and afterwards lived 
+a long time with others, leave these again, seek their former 
+partners, and again be one pair.  And, though they have wives, 
+yet they will not leave off whoring; and if they can sleep with 
+another man's wife, they think it is a brave thing.  The women 
+are exceedingly addicted to whoring; they will lie with a man 
+for the value of one, two, or three schillings, and our Dutchmen 
+run after them very much.
+
+The women, when they have been delivered, go about immediately 
+afterwards, and be it ever so cold, they wash themselves and the 
+young child in the river or the snow.  They will not lie down (for 
+they say that if they did they would soon die), but keep going about.  
+They are obliged to cut wood, to travel three or four leagues with 
+the child; in short, they walk, they stand, they work, as if they had 
+not lain in, and we cannot see that they suffer any injury by it; and 
+we sometimes try to persuade our wives to lie-in so, and that the 
+way of lying-in in Holland is a mere fiddle-faddle.  The men have 
+great authority over their concubines, so that if they do anything 
+which does not please and raises their passion, they take an axe 
+and knock them in the head, and there is an end of it.  The women 
+are obliged to prepare the land, to mow, to plant, and do everything; 
+the men do nothing, but hunt, fish, and make war upon their enemies.  
+They are very cruel towards their enemies in time of war; for they 
+first bite off the nails of the fingers of their captives, and cut off 
+some joints, and sometimes even whole fingers; after that, the 
+captives are forced to sing and dance before them stark naked; and 
+finally, they roast their prisoners dead before a slow fire for some 
+days, and then eat them up.  The common people eat the arms, 
+buttocks and trunk, but the chiefs eat the head and the heart.
+
+Our Mahakas carry on great wars against the Indians of Canada, on 
+the River Saint Lawrence, and take many captives, and sometimes 
+there are French Christians among them.  Last year, our Indians got 
+a great booty from the French on the River Saint Lawrence, and took 
+three Frenchmen, one of whom was a Jesuit.  They killed one, but 
+the Jesuit (whose left thumb was cut off, and all the nails and parts 
+of his fingers were bitten,) we released, and sent him to France by a 
+yacht which was going to our country.  They spare all the children 
+from ten to twelve years old, and all the women whom they take 
+in war, unless the women are very old, and then they kill them too.  
+Though they are so very cruel to their enemies, they are very friendly 
+to us, and we have no dread of them.  We go with them into the 
+woods, we meet with each other, sometimes at an hour or two's 
+walk from any houses, and think no more about it than as if we 
+met with a Christian.  They sleep by us, too, in our chambers before 
+our beds.  I have had eight at once lying and sleeping upon the floor 
+near my bed, for it is their custom to sleep simply on the bare ground, 
+and to have only a stone or a bit of wood under their heads.  In the
+evening, they go to bed very soon after they have supped; but early 
+in the morning, before day begins to break, they are up again.  They 
+are very slovenly and dirty; they wash neither their face nor hands, 
+but let all remain upon their yellow skin, and look like hogs.  Their 
+bread is Indian corn beaten to pieces between two stones, of which 
+they make a cake, and bake it in the ashes:  their other victuals are
+venison, turkies, hares, bears, wild cats, their own dogs, etc.  The 
+fish they cook just as they get them out of the water without 
+cleansing; also the entrails of deer with all their contents, which they 
+cook a little; and if the intestines are then too tough, they take one 
+end in their mouth, and the other in their hand, and between hand 
+and mouth they separate and eat them.  So they do commonly with 
+the flesh, for they carve a little piece and lay it on the fire, as long as 
+one would need to walk from his house to church, and then it is done; 
+and then they bite into it so that the blood runs along their mouths.  
+They can also take a piece of bear's-fat as large as two fists, and eat
+it clear without bread or anything else.  It is natural to them to have 
+no bears; not one in an hundred has any hair about his mouth.
+
+They have also naturally a very high opinion of themselves; they 
+say, Ihy Othkon, ("I am the Devil") by which they mean that they 
+are superior folks.  In order to praise themselves and their people, 
+whenever we tell them they are very expert at catching deer, or 
+doing this and that, they say, Tkoschs ko, aguweechon Kajingahaga 
+kouaane Jountuckcha Othkon; that is, "Really all the Mohawks are 
+very cunning devils."  They make their houses of the bark of trees, 
+very close and warm, and kindle their fire in the middle of them.  
+They also make of the peeling and bark of trees, canoes or small 
+boats, which will carry four, five and six persons.  In like manner 
+they hollow out trees, and use them for boats, some of which are 
+very large.  I have several times sat and sailed with ten, twelve and 
+fourteen persons in one of these hollowed logs.  We have in our 
+colony a wooden canoe obtained from the Indians, which will 
+easily carry two hundred schepels of wheat.  Their weapons in 
+war were formerly a bow and arrow, with a stone axe and mallet; 
+but now they get from our people guns, swords, iron axes and 
+mallets.  Their money consists of certain little bones, made of 
+shells or cockles, which are found on the sea-beach; a hole is 
+drilled through the middle of the little bones, and these they 
+string upon thread, or they make of them belts as broad as a hand, 
+or broader, and hang them on their necks, or around their bodies.  
+They have also several holes in their ears, and there they likewise 
+hang some.  They value these little bones as highly as many 
+Christians do gold, silver and pearls; but they do not like our 
+money, and esteem it no better than iron.  I once showed one of 
+their chiefs a rix-dollar; he asked how much it was worth among 
+the Christians; and when I told him, he laughed exceedingly at us, 
+saying we were fools to value a piece of iron so highly; and if he 
+had such money, he would throw it into the river.  They place their 
+dead upright in holes, and do not lay them down, and then they 
+throw some trees and wood on the grave, or enclose it with palisades. 
+They have their set times for going to catch fish, bears, panthers, 
+beavers and eels.  In the spring, they catch vast quantities of shad 
+and lampreys, which are exceedingly large here; they lay them on 
+the bark of trees in the sun, and dry them thoroughly hard, and then 
+put them in notasten, or bags, which they plait from hemp which 
+grows wild here, and keep the fish till winter.  When their corn is
+ripe, they take it from the ears, open deep pits, and preserve it in 
+these the whole winter.  They can also make nets and seines in their
+fashion; and when they want to fish with seines, ten or twelve men 
+will go together and help each other, all of whom own the seine in
+common.
+
+They are entire strangers to all religion, but they have a Tharon-
+hijouaagon, (whom they also otherwise call Athzoockkuatoriaho,) 
+that is, a Genius, whom they esteem in the place of God; but they 
+do not serve him or make offerings to him.  They worship and 
+present offerings to the Devil, whom they call Otskon, or Aireskuoni.  
+If they have any bad luck in war, they catch a bear, which they cut 
+in pieces, and roast, and that they offer up to their Aireskuoni, 
+saying in substance, they following words:  "Oh! great and mighty
+Aireskuoni, we confess that we have offended against thee, inasmuch 
+as we have not killed and eaten our captive enemies;--forgive us this.  
+We promise that we will kill and eat all the captives we shall hereafter 
+take as certainly as we have killed, and now eat this bear."  Also when 
+the weather is very hot, and there comes a cooling breeze, they cry 
+out directly, Asorunusi, asorunusi, Otskon aworouhsi reinnuha; that 
+is, "I thank thee, I thank thee, devil, I thank thee, little uncle!"  If 
+they are sick, or have a pain or soreness anywhere in their limbs, and 
+I ask them what ails them they say that the Devil sits in their body, 
+or in the sore places, and bites them there; so that they attribute to 
+the Devil at once the accidents which befall them; they have other-
+wise no religion.  When we pray they laugh at us.  Some of them 
+despise it entirely; and some, when we tell them what we do when 
+we pray, stand astonished.  When we deliver a sermon, sometimes 
+ten or twelve of them, more or less, will attend, each having a long 
+tobacco pipe, made by himself, in his mouth, and will stand awhile 
+and look, and afterwards ask me what I am doing and what I want, 
+that I stand there alone and make so many words, while none of the 
+rest may speak. I tell them that I am admonishing the Christians, that 
+they must not steal, nor commit lewdness, nor get drunk, nor commit
+murder, and that they too ought not to do these things; and that I intend 
+in process of time to preach the same to them and come to them in 
+their own country and castles (about three days' journey from here, 
+further inland), when I am acquainted with their language.  Then they 
+say I do well to teach the Christians; but immediately add, Diatennon 
+jawij Assirioni, hagiouisk, that is, "Why do so many Christians do 
+these things?"  They call us Assirioni, that is, cloth-makers, or
+Charistooni, that is, iron-workers, because our people first brought 
+cloth and iron among them.
+
+They will not come into a house where there is a menstruous woman, 
+nor eat with her.  No woman may touch their snares with which they 
+catch deer, for they say the deer can scent it.
+
+The other day an old woman came to our house, and told my people 
+that her forefathers had told her "that Tharonhij-Jagon, that is, God, 
+once went out walking with his brother, and a dispute arose between 
+them, and God killed his brother."  I suppose this fable took its rise 
+from Cain and Abel.  They have a droll theory of the Creation, for 
+they think that a pregnant woman fell down from heaven, and that 
+a tortoise, (tortoises are plenty and large here, in this country, two, 
+three and four feet long, some with two heads, very mischievous 
+and addicted to biting) took this pregnant woman on its back, because 
+every place was covered with water; and that the woman sat upon 
+the tortoise, groped with her hands in the water, and scraped together 
+some of the earth, whence it finally happened that the earth was raised 
+above the water.  They think that there are more worlds than one, and 
+that we came from another world.
+
+The Mohawk Indians are divided into three tribes, which are called 
+Ochkari, Aanaware, Oknaho, that is, the Bear, the Tortoise and the 
+Wolf.  Of these, the Tortoise is the greatest and most prominent; and 
+they boast that they are the oldest descendants of the woman before 
+mentioned.  These have made a fort of palisades, and they call their 
+castle Asserue.  Those of the Bear are the next to these, and their 
+castle is called by them Banagiro.  The last are a progeny of these, 
+and their castle is called Thenondiogo.  These Indian tribes each 
+carry the beast after which they are named (as the arms in their 
+banner) when they go to war against their enemies, as for a sign of 
+their own bravery.  Lately one of their chiefs came to me and presented 
+me with a beaver, an otter, and some cloth he had stolen from the 
+French, which I must accept as a token of good fellowship.  When he 
+opened his budget he had in it a dried head of a bear, with grinning 
+teeth.  I asked him what that meant?  He answered me that he fastened 
+it upon his left shoulder by the side of his head, and that then he was 
+the devil, who cared for nothing, and did not fear any thing.
+
+The government among them consists of the oldest, the most 
+intelligent, the most eloquent and most warlike men.  These 
+commonly resolve, and then the young and warlike men execute.  
+But if the common people do not approve of the resolution, it is 
+left entirely to the judgment of the mob.  The chiefs are generally 
+the poorest among them, for instead of their receiving from the 
+common people as among Christians, they are obliged to give to 
+the mob; especially when any one is deceased; and if they take 
+any prisoners they present them to that family of which one has 
+been killed, and the prisoner is then adopted by the family into 
+the place of the deceased person.  There is no punishment here 
+for murder and other villainies, but every one is his own avenger.  
+The friends of the deceased revenge themselves upon the murderer 
+until peace is made by presents to the next of kin.  But although 
+they are so cruel, and live without laws or any punishments for evil 
+doers, yet there are not half so many villainies or murders committed
+amongst them as amongst Christians; so that I oftentimes think with
+astonishment upon all the murders committed in the Fatherland,
+notwithstanding their severe laws and heavy penalties.  These 
+Indians, though they live without laws, or fear of punishment, do 
+not (at least, they very seldom) kill people, unless it may be in a 
+great passion, or a hand-to-hand fight.  Wherefore we go wholly
+unconcerned along with the Indians and meet each other an hour's 
+walk off in the woods, without doing any harm to one another.
+
+JOHANNES MEGAPOLENSIS.
+
+
+END OF PROJECT GUTENBERG ETEXT "MEGAPOL-
+ENSIS ON THE MOHAWKS."
+
+
+
+Letter and Narrative of Father Isaac Jogues, 1643, 1645.  
+In J. Franklin Jameson, ed., Narratives of New Netherland, 
+1609-1664 (Original Narratives of Early American History).  
+NY: Charles Scribner's Sons, 1909.
+
+
+
+Letter of Father Isaac Jogues to His Superior in Canada, 1643.
+
+I STARTED the very day of the Feast of Our Blessed Father Saint 
+Ignatius from the village where I was captive, in order to follow 
+and accompany some Iroquois who were going away, first for trade, 
+then for fishing.  Having accomplished their little traffic, they 
+stopped at a place seven or eight leagues below a settlement of the 
+Dutch, which is located on a river where we carried on our fishing.  
+While we were setting snares for the fish, there came a rumor that a 
+squad of Iroquois, returned from pursuit of the Hurons, had killed 
+five or six on the spot, and taken four prisoners, two of whom had 
+been already burned in our village, with cruelties extraordinary.  
+At this news, my heart was pierced through with a most bitter and 
+sharp pain, because I had not seen, or consoled, or baptized those 
+poor victims.  Consequently, fearing lest some other like thing 
+should happen in my absence, I said to a good old woman--who, 
+by reason of her age, and the care that she had for me, and the 
+compassion that she felt toward me, called me her nephew, and I 
+called her my aunt--I then said to her:  "My aunt, I would much 
+like to return to our cabin; I grow very weary here."  It was not 
+that I expected more ease and less pain in our village, where I 
+suffered a continual martyrdom, being constrained to see with 
+my eyes the horrible cruelties which are practised there; but my 
+heart could not endure the death of any man without my procuring 
+him holy baptism.  That good woman said to me:  "Go then, my 
+nephew, since thou art weary here; take something to eat on the 
+way."  I embarked in the first canoe that was going up to the 
+village, always conducted and always accompanied by the Iroquois.  
+Having arrived, as we did, in the settlement of the Dutch, through 
+which it was necessary for us to pass, I learn that our whole village 
+is excited against the French, and that only my return is awaited, for 
+them to burn us.  Now for the cause of such news.  Among several 
+bands of Iroquois, who had gone to war against the French, the
+Algonquins and the Hurons, there was one which took the resolution 
+to go round about Richelieu, in order to spy on the French and the 
+savages, their allies.   certain Huron of this band, taken by the 
+Hiroquois, and settled among them, came to ask me for letters, in 
+order to carry them to the French, hoping, perhaps, to surprise some 
+one of them by this bait; but, as I doubted not that our French would 
+be on their guard, and as I saw, moreover, that it was important that 
+I should give them some warning of the designs, the arms and the
+treachery of our enemies, I found means to secure a bit of paper in 
+order to write to them, the Dutch according me this charity.  I knew 
+very well the dangers to which I was exposing myself; I was not 
+ignorant that, if any misfortune happened to those warriors, they 
+would make me responsible therefor, and would blame my letters 
+for it.  I anticipated my death; but it seemed to me pleasant and 
+agreeable, employed for the public good, and for the consolation 
+of our French and of the poor savages who listen to the word of 
+Our Lord.  My heart was seized with no dread at the sight of all 
+that might happen therefrom, since it was a matter of the glory of 
+God; I accordingly gave my letter to that young warrior, who did 
+not return.  The story which his comrades have brought back says 
+that he carried it to the fort of Richelieu, and that, as soon as the 
+French had seen it, they fired the cannon upon them.  This frightened 
+them so that the greater part fled, all naked, abandoning one of their
+canoes, in which there were three arquebuses, powder and lead, and 
+some other baggage.  These tidings being brought into the village, 
+they clamor aloud that my letters have caused them to be treated like 
+that; the rumor of it spreads everywhere; it comes even to my ears.  
+They reproach me that I have done this evil deed; they speak only 
+of burning me; and, if I had chanced to be in the village at the return 
+of those warriors, fire, rage and cruelty would have taken my life.  
+For climax of misfortune, another troop--coming back from Mont-
+real, where they had set ambushes for the French--said that one of 
+their men had been killed, and two others wounded.  Each one held 
+me guilty of these adverse encounters; they were fairly mad with 
+rage, awaiting me with impatience.  I listened to all these rumors, 
+offering myself without reserve to our Lord, and committing myself 
+in all and through all to His most holy will.  The captain of the Dutch
+settlement where we were, not being ignorant of the evil design of 
+those barbarians, and knowing, moreover, that Monsieur the Chevalier 
+de Montmagny had prevented the savages of New France from 
+coming to kill some Dutch, disclosed to me means for escape.  
+"Yonder," said he to me, "is a vessel at anchor, which will said 
+in a few days; enter into it secretly.  It is going first to Virginia, 
+and thence it will carry you to Bordeux or to La Rochelle, where 
+it is to land."  Having thanked him, with much regard for his 
+courtesy, I tell him that the Iroquois, probably suspecting that 
+some one had favored my retreat, might cause some damages 
+to his people.  "No, no," he answers, "fear nothing; this oppor-
+tunity is favorable; embark; you will never find a more certain 
+way to escape."  My heart remained perplexed at these words, 
+wondering if it were not expedient for the greater glory of our 
+Lord that I expose myself to the danger of the fire and to the 
+furty of those barbarians, in order to aid in the salvation of some 
+soul.  I said to him then:  "Monsieur, the affair seems to me of 
+such importance that I cannot answer you at once; give me, if you 
+please, the night to think of it.  I will commend it to our Lord; I 
+will examine the arguments on both sides; and to-morrow morning 
+I will tell you my final resolution."  He granted me my request with
+astonishment; I spent the night in prayers, greatly beseeching our 
+Lord that he should not allow me to reach a conclusion by myself; 
+that he should give me light, in order to know His most holy will; 
+that in all and through all I wished to follow it, even to the extent 
+of being burned at a slow fire.  The reasons which might keep me 
+in the country were consideration for the French and for the 
+Savages; I felt love for them, and a great desire to assist them, 
+insomuch that I had resolved to spend the remainder of my days 
+in that captivity, for their salvation; but I saw the face of affairs 
+quite changed.
+
+In the first place, as regarded our three Frenchmen, led captive into 
+the country as well as I:  one of them, named Rene Goupil, had 
+already been murdered at my feet; this young man had the purity of 
+an angel.  Henry, whom they had taken at Mont-Real, had fled into 
+the woods.  While he was looking at the cruelties which were 
+practised upon two poor Hurons, roasted at a slow fire, some 
+Iroquois told him that he would receive the same treatment, and 
+I, too, when I should return; these threats made him resolve rather 
+to plunge into the danger of dying from hunger in the woods, or of 
+being devoured by some wild beast, than to endure the torments 
+which these half-demons inflicted.  It was already seven days since 
+he had disappeared.  As for Guilllaume Cousture, I saw scarcely 
+any further way of aiding him, for they had placed him in a village 
+far from the one where I was; and the savages so occupied it on the 
+hither side of that place, that I could no longer meet him.  Add that 
+he himself had addressed me in these words:  "My Father, try to 
+escape; as soon as I shall see you no more, I shall find the means to 
+get away.  You well know that I stay in this captivity only for the 
+love of you; make, then, your efforts to escape, for I cannot think 
+of my liberty and of my life unless I see you in safety."  
+Furthermore, this good youth had been given to an old man, 
+who assured me that he would allow him to go in peace, if I 
+could obtain my deliverance; consequently I saw no further 
+reason which obliged me to remain on account of the French.
+
+
+As for the savages, I was without power and beyond hope of being 
+able to instruct them; for the whole country was so irritated against 
+me that I found no more any opening to speak to them, or to win 
+them; and the Algonquins and the Hurons were constrained to 
+withdraw from me, as from a victim destined to the fire, for fear of 
+sharing in the hatred and rage which the Iroquois felt against me.  I
+realized, moreover, that I had some acquaintance with their language; 
+that I knew their country and their strength; that I could perhaps 
+better procure their salvation by other ways than by remaining 
+among them.  It came to my mind that all this knowledge would die 
+with me, if I did not escape.  These wretches had so little inclination 
+to deliver us, that they committed a treachery against the law and the
+custom of all these nations.   savage from the country of the Soko-
+kiois, allies of the Iroquois, having been seized by the upper 
+Algonquins and taken a prisoner to the Three Rivers, or to Kebec, 
+was delivered and set at liberty by the mediation of Monsieur the
+Governor of New France, at the solicitation of the Fathers.  This good
+savage, seeing that the French had saved his life, sent in the month of
+April, some fine presents, to the end that they should deliver at least 
+one of the French.  The Iroquois retained the presents, without setting 
+one of them at liberty, which treachery is perhaps unexampled among
+these peoples, for they inviolably observe this law, that whoever 
+touches or accepts the present which is made to him, is bound to fulfil
+what is asked of him through that present.  This is why, when they 
+they are unwilling to grant what is desired, they send back the presents 
+or make others in place of them.  But to return to my subject:  having
+weighed before God, with all the impartiality in my power, the reasons 
+which inclined me to remain among those barbarians or to leave them, 
+I believed that our Lord would be better pleased if I should take the
+opportunity to escape.  Daylight having come, I went to greet Monsieur
+the Dutch Governor, and declared to him the opinions that I had adopted
+before God.  He summons the chief men of the ship, signifies to them 
+his intentions, and exhorts them to receive me, and to keep me 
+concealed--in a word, to convey me back to Europe.  They answer that, 
+if I can once set foot in their vessel, I am in safety; that I shall not leave 
+it until I reach Bordeaux or La Rochelle.  "Well, then," the Governor 
+said to me, "return with the savages, and toward the evening, or in the
+night, steal away softly and move toward the river; you will find there 
+a little boat which I will have kept all ready to carry you secretly to 
+the ship."  
+
+After very humbly returning thanks to all those gentlemen, I 
+withdrew from the Dutch, in order better to conceal my design.  
+Toward evening, I retired with ten or twelve Iroquois into a barn, 
+where we passed the night.  Before lying down, I went out of that 
+place, to see in what quarter I might most easily escape.  The dogs 
+of the Dutch, being then untied, run up to me; one of them, large 
+and powerful, flings himself upon my leg, which is bare, and 
+seriously injures it.  I return immediately to the barn; the Iroquois 
+close it securely and, the better to guard me, come to lie down 
+beside me, especially a certain man who had been charged to 
+watch me.  Seeing myself beset with those evil creatures, and 
+the barn well closed, and surrounded with dogs, which would 
+betray me if I essayed to go out, I almost believed that I could 
+not escape.  I complained quietly to my God, because, having 
+given me the idea of escaping, Concluserat vias meas lapidibus 
+quadris, et in loco spatioso pedes meos.  He was stopping up the 
+ways and paths of it.  I spent also that second night without 
+sleeping; the day approaching, I heard the cocks crow.  Soon 
+afterward, a servant of the Dutch farmer who had lodged us in 
+his barn, having entered it by some door or other, I accosted him 
+softly, and made signs to him (for I did not understand his Flemish), 
+that he should prevent the dogs from yelping.  He goes out at once, 
+and I after him, having previously taken all my belongings, which 
+consisted of a little Office of the Virgin, of a little Gerson, and a 
+wooden Cross that I had made for myself, in order to preserve the 
+memory of the sufferings of my Savior.  Being outside of the barn, 
+without having made any noise or awakened my guards, I cross 
+over a fence which confined the enclosure about the house; I run 
+straight to the river where the ship was--this is all the service that 
+my leg, much wounded, could render me; for there was surely a 
+good quarter of a league of road to make.  I found the boat as they 
+had told me, but, the water having subsided, it was aground.  I push 
+it, in order to set it afloat; not being able to effect this, on account 
+of its weight, I call to the ship, that they bring the skiff to ferry me, 
+but no news.  I know not whether they heard me; at all events no 
+one appeared.  The daylight meanwhile was beginning to discover 
+to the Iroquois the theft that I was making of myself; I feared that 
+they might surprise me in this innocent misdemeanor.  Weary of 
+shouting, I return to the boat; I pray God to increase my strength; 
+I do so well, turning it end for end, and push it so hard that I get it 
+to the water.  Having made it float, I jump into it, and go all alone 
+to the ship, where I go on board without being discovered by any 
+Iroquois.  They lodge me forthwith down in the hold; and in order 
+to conceal me they put a great chest over the hatchway.  I was two 
+days and two nights in the belly of that vessel, with such discomfort 
+that I thought I would suffocate and die with the stench.  I remembered 
+then poor Jonas, and I prayed our Lord, Ne fugerem a facie Domini, 
+that I might not hide myself before his face, and that I might not 
+withdraw far from his wishes; but on the contrary, infatuaret omnia 
+consilia quae non essent ad suam gloriam, I prayed him to overthrow 
+all the counsels which should not tend to this glory, and to detain me 
+in the country of those infidels, if he did not approve my retreat and 
+my flight.  The second night of my voluntary prison, the minister of 
+the Dutch came to tell me that the Iroquois had indeed made some 
+disturbance, and that the Dutch inhabitants of the country were afraid 
+that they would set fire to their houses or kill their cattle; they have 
+reason to fear them, since they have armed them with good arquebuses.  
+To that I answer:  Si propter me orta est tempestas, projicite me in 
+mare:  "If the storm has risen on my account, I am ready to appease it 
+by losing my life;"  I had never the wish to escape to the prejudice of 
+the least man of their settlement.  Finally, it was necessary to leave 
+my cavern; all the mariners were offended at this, saying that the 
+promise of security had been given me in case I could set foot in
+the ship, and that I was withdrawn at the moment when it would be 
+requisite to bring me thither if I were not there; that I had put myself 
+in peril of life by escaping upon their words; that it must needs be 
+kept, whatever the cost.  I begged that I be allowed to go forth, since 
+the captain who had disclosed to me the way of my flight was asking 
+for me.  I went to find him in his house, where he kept me concealed; 
+these goings and these comings having occurred by night, I was not 
+yet discovered.  I might indeed have alleged some reasons in all these 
+encounters; but it was not for me to speak in my own cause, but rather 
+to follow the orders of others, to which I submitted with good heart.  
+Finally, the captain told me that it was necessary to yield quietly to 
+the storm, and wait until the minds of the savages should be pacified; 
+and that every one was of this opinion.  So there I was, a voluntary 
+prisoner in his house, from which I am writing back to you the present 
+letter.  And if you ask my thoughts in all these adventures, I will tell 
+you.
+
+First, that that ship which had wished to save my life, sailed without 
+me.
+
+Secondly, if our Lord do not protect me in a manner well-nigh 
+miraculous, the savages, who go and come here at every moment, 
+will discover me; and if ever they convince themselves that I have 
+not gone away, it will be necessary to return into their hands.  Now 
+if they had such a rage against me before my flight, what treatment 
+will they inflict on me, seeing me fallen back into their power?  I 
+shall not die a common death; the fire, their rage, and the cruelties 
+which they invent, will tear away my life.  God be blessed forever.  
+We are incessantly in the bosom of His divine and always adorable 
+providence.  Vestri capilli capitis numerati sunt; nolite timere; nultis 
+passeribus meliores estis vos quorum unus non cadet super terram 
+sine patre vestro; he who has care for the little birds of the air does 
+not cast us into oblivion.  It is already twelve days that I have been 
+concealed; it is quite improbable that misfortune will reach me.
+
+In the third place, you see the great need that we have of your 
+prayers and of the holy Sacrifices of all our Fathers; procure us 
+this alms everywhere, ut reddat me Dominus idoneum ad se 
+amandum, fortem ad patiendum, constantem ad perseverandum 
+in suo amore, et servitio, to the end that God may render me fit 
+and well disposed to love him; that he may render me strong and 
+courageous to suffer and to endure; and that he may give me a 
+noble constancy to persevere in his love and in his service--this 
+is what I would desire above all, together with a little New 
+Testament from Europe.  Pray for these poor nations which burn 
+and devour one another, that at last they may come to the know-
+ledge of their Creator, in order to render to Him the tribute of their 
+love.  Memor sum vestri in vinculis meis; I do not forget you; my 
+captivity cannot fetter my memory.  I am, heartily and with affection, 
+etc.
+
+From Renselaerivich, this 30th of August, 1643.
+
+END OF PROJECT GUTENBERG ETEXT "LETTER 
+AND NARRATIVE OF FATHER ISAAC JOGUES."
+
+
+
+
+
+End of Project Gutenberg's Original Narratives of Early American History
+
