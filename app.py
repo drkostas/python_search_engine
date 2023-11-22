@@ -140,13 +140,13 @@ def ranking_tfidf(func):
 
         # Print the descending ordered list of the retrieving documents regarding the previously calculated sum of tf*idf score.
         tf_idf_sorted = sorted(retrieved_documents_tfidf.keys(), key=lambda x: -retrieved_documents_tfidf[x])
-        print
+        print()
         print ("{0:>2} {1:>20} {2:>10}".format("#", "Book Name", "tf*idf"))
         for i in range(len(tf_idf_sorted[:10])):
-            print ("{0:>2} {1} {2:>10}".format(i + 1, "<a href=\"https://github.com/drkostas/python_search_engine/blob/master/books/{0}.txt\" target=\"_blank\">{0:>20}</a>".format(tf_idf_sorted[i]), retrieved_documents_tfidf[tf_idf_sorted[i]]))
-        print
-        print
-        print
+            print("{0:>2} {1} {2:>10}".format(i + 1, "<a href=\"https://github.com/drkostas/python_search_engine/blob/master/books/{0}.txt\" target=\"_blank\">{0:>20}</a>".format(tf_idf_sorted[i]), retrieved_documents_tfidf[tf_idf_sorted[i]]))
+        print()
+        print()
+        print()
 
     return print_top_10
 
@@ -174,7 +174,7 @@ def phrase_query(query_lemmas):
     Then we check them for ordering. So, for every list in the intermediate results, we first make a list of lists of the positions of each wordd in the input query. Then we use two nested for loops to iterate through this list of lists. If the words are in the proper order,
     """
     global inverted_file,docnames,indeces
-
+    
     for i in range(0, len(query_lemmas)):
         common_documents = set([docid for docid in inverted_file[indeces[i]][3]]) if (i == 0) else common_documents.intersection(set([docid for docid in inverted_file[indeces[i]][3]]))
         # It doesn't take the document names but the numbers instead
@@ -260,7 +260,7 @@ def search_engine():
     # ------------------------------------------ Warm Up ------------------------------------------ #
     for word, pos in pos_tag(wp_tokenizer.tokenize("query")):
         pass
-    temp = wnl_lemmatizer.lemmatize(word, 'n')
+    # temp = wnl_lemmatizer.lemmatize(word, 'n')
 
     tick = time.time()
     # List of valid lemmas included in current query
