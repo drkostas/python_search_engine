@@ -1,0 +1,4 @@
+flask
+high_sql
+python-dotenv
+nltk
