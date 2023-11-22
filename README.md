@@ -2,7 +2,7 @@
 This is a search engine on the **Gutenberg Project* archive.
 It is implemented with python and the front end part is handled with **Flask** framework.
 
-**Demo:** http://search.gkos.dev
+**Demo:** [search.gkos.dev](https://search.gkos.dev)
 
 It is consisted of 2 basics elements:
 
