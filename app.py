@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import json
+from urllib.request import urlopen, Request
 import time
 from io import StringIO
 import nltk
@@ -12,19 +13,11 @@ from nltk.tokenize import WordPunctTokenizer
 from nltk.stem.wordnet import WordNetLemmatizer
 from functools import reduce
 
-from high_sql import HighMySQL
 from dotenv import load_dotenv
 import datetime
 import socket
 
 load_dotenv()
-db_conf = {
-    "hostname": os.getenv("DB_HOST"),
-    "username": os.getenv("DB_USER"),
-    "password": os.getenv("DB_PASSWORD"),
-    "db_name": os.getenv("DB_NAME"),
-    "port": 3306,
-}
 # Download resources
 if not os.path.exists('./ntlk_data'):
     nltk.download('stopwords', download_dir='./ntlk_data')
@@ -41,8 +34,6 @@ wnl_lemmatizer = WordNetLemmatizer()        # Wordnet Lemmatizer instance
 stop_words = stopwords.words('english')     # English stop words list
 my_dir = os.path.dirname(__file__)
 tracking_page_name = os.getenv("TRACKING_PAGE_NAME")
-mysql = HighMySQL(config=db_conf)   
-
 app = Flask(__name__)
 app.config["DEBUG"] = True
 
@@ -65,18 +56,50 @@ def get_domain_from_ip(ip):
     except socket.herror:
         return ''
 
+def track_visit(page_name):
+    """Best-effort visit tracking to the collector at home.
+
+    Replaces the direct MySQL insert this app used to make. It is deliberately incapable of
+    breaking the page: a short timeout, every exception swallowed, and no database credentials
+    in this app at all. The visitor address comes from X-Forwarded-For because on Vercel
+    request.remote_addr is the platform proxy.
+    """
+    url = os.getenv("COLLECTOR_URL")
+    token = os.getenv("COLLECTOR_TOKEN")
+    if not url or not token:
+        return
+    try:
+        fwd = request.headers.get("X-Forwarded-For", "") or ""
+        ip = fwd.split(",")[0].strip() or request.headers.get("X-Real-IP", "") or (request.remote_addr or "")
+        try:
+            domain = socket.gethostbyaddr(ip)[0] if ip else ""
+        except Exception:
+            domain = ""
+        payload = json.dumps({
+            "page": page_name or "",
+            "ref": request.referrer or "Unknown",
+            "agent": request.headers.get("User-Agent", "") or "",
+            "ip": ip,
+            "domain": domain,
+        }).encode()
+        req = Request(url.rstrip("/") + "/collect", data=payload, method="POST",
+                      headers={"Content-Type": "application/json",
+                               "Authorization": "Bearer " + token,
+                               # Cloudflare answers 403 to the default urllib agent, so identify
+                               # this client properly rather than looking like a scraper.
+                               "User-Agent": "estate-collector-client/1.0"})
+        with urlopen(req, timeout=1.5):
+            pass
+    except Exception as exc:  # never breaks the page, but must not fail silently either
+        print(f"track_visit failed: {exc!r}", file=sys.stderr)
+
+
 @app.route('/')
 def main():
         agent, ip, ref, domain = get_client_info(request)
         date_str = datetime.datetime.now().strftime("%Y-%m-%d")
 
-        mysql.insert_into_table('tracking_info', 
-                                data={'tm': date_str, 
-                                      'ref': ref,
-                                      'agent': agent,
-                                      'ip': ip,
-                                      'tracking_page_name': tracking_page_name,
-                                      'domain': domain})
+        track_visit(tracking_page_name)
         return render_template("form.html")
 
 
@@ -240,13 +263,7 @@ def search_engine():
         s_query = ''
     
     date_str = datetime.datetime.now().strftime("%Y-%m-%d")
-    mysql.insert_into_table('tracking_info', 
-                            data={'tm': date_str, 
-                                  'ref': s_query,
-                                  'agent': '',
-                                  'ip': '',
-                                  'tracking_page_name': tracking_page_name,
-                                  'domain': ''})
+    track_visit(tracking_page_name)
     
     
     old_stdout = sys.stdout
