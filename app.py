@@ -94,6 +94,36 @@ def track_visit(page_name):
         print(f"track_visit failed: {exc!r}", file=sys.stderr)
 
 
+@app.route('/api/client-error', methods=['POST'])
+def client_error():
+    """Optional error reports. The page sends an uncaught error here, and this forwards it to the
+    collector as kind "error" with the token, which never reaches the browser. Without
+    COLLECTOR_URL and COLLECTOR_TOKEN nothing is sent. Always 204."""
+    url = os.getenv("COLLECTOR_URL")
+    token = os.getenv("COLLECTOR_TOKEN")
+    if url and token:
+        try:
+            body = json.loads(request.get_data(as_text=True) or "{}")
+            message = str(body.get("message") or "")[:300]
+            if message:
+                payload = json.dumps({
+                    "kind": "error",
+                    "page": tracking_page_name or "",
+                    "message": message,
+                    "source": str(body.get("source") or "")[:250],
+                    "agent": request.headers.get("User-Agent", "") or "",
+                }).encode()
+                req = Request(url.rstrip("/") + "/collect", data=payload, method="POST",
+                              headers={"Content-Type": "application/json",
+                                       "Authorization": "Bearer " + token,
+                                       "User-Agent": "estate-collector-client/1.0"})
+                with urlopen(req, timeout=1.5):
+                    pass
+        except Exception as exc:  # a report that cannot be read or sent is dropped
+            print(f"client_error failed: {exc!r}", file=sys.stderr)
+    return "", 204
+
+
 @app.route('/')
 def main():
         agent, ip, ref, domain = get_client_info(request)
